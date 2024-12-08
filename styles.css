@@ -288,10 +288,7 @@ h4 {
 }
 
 
-.about:hover .tooltip {
-  visibility: visible;
-  opacity: 1;
-}
+
 
 .about img {
   width: 20px; /* Set the width of the image */
@@ -305,3 +302,37 @@ h4 {
   transform: scale(1.1); /* Scale the image when hovered */
 }
 
+/* Introduction Section */
+.intro-section {
+  background-color: #f0f9f4; /* Light green background for a fresh look */
+  padding: 40px 20px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  margin: 40px auto;
+  max-width: 900px;
+}
+
+.intro-section h2 {
+  font-size: 2.5em;
+  color: #4CAF50; /* Bright green for a fresh vibe */
+  margin-bottom: 20px;
+  font-family: 'Arial', sans-serif;
+}
+
+.intro-section p {
+  font-size: 1.2em;
+  color: #333;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  font-family: 'Arial', sans-serif;
+  max-width: 80%;
+  margin: 0 auto;
+}
+.home-footer {
+    position: fixed;
+    bottom: 0;
+    margin: 15px;
+    left: 38%;
+    font-size: small;
+}
