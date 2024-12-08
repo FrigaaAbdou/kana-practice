@@ -5,8 +5,44 @@ body {
   color: #333;
   margin: 0;
   padding: 0;
-  margin-top: 75px;
+  
 }
+/* Navbar styles */
+.navbar {
+  background-color: #4CAF50; /* Bright green for a lively feel */
+  padding: 10px 20px;
+  position: sticky; /* Ensures it stays at the top while scrolling */
+  top: 0;
+  width: 100%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: center; /* Centers the links */
+  align-items: center;
+}
+
+.nav-link {
+  color: white; /* White text for contrast */
+  text-decoration: none;
+  font-size: 1.2em;
+  margin: 0 15px;
+  padding: 5px 10px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.nav-link:hover {
+  background-color: #45a049; /* Slightly darker green on hover */
+  color: #fff;
+  border-radius: 4px;
+}
+
+.nav-link:active {
+  background-color: #3e8e41; /* Even darker green when clicked */
+}
+
 input[type=text]:focus {
   border: 3px solid #555;
   background-color: rgb(225, 255, 224);
@@ -211,3 +247,61 @@ h4 {
   left: 50%;
   background: #4caf50;
 }
+
+
+.about {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin: 15px;
+}
+
+
+.about .tooltip {
+  visibility: hidden;
+  opacity: 0;
+  width: max-content; /* Adjust width to content */
+  background-color: #3eaf59; /* Tooltip background color */
+  color: #fff; /* Tooltip text color */
+  text-align: center;
+  padding: 5px 10px;
+  border-radius: 5px;
+  position: absolute;
+  bottom: 120%; /* Position above the image */
+  left: -120%;
+  transform: translateX(-50%);
+  transition: opacity 0.3s ease-in-out;
+  z-index: 10; /* Ensure tooltip appears on top */
+  white-space: nowrap; /* Prevent text from wrapping */
+  font-size: 12px; /* Adjust font size */
+  font-size: 14px; /* Adjust font size */
+  font-family: 'Arial', sans-serif; /* Change the font family */
+  font-weight: normal;
+  color: #ffffff; /* Make the text bold */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Add a shadow for better contrast */
+}
+
+
+.about:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+.about:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+.about img {
+  width: 20px; /* Set the width of the image */
+  height: 20px; /* Set the height of the image */
+  border-radius: 50%; /* Make the image circular (if it's square) */
+  object-fit: cover; /* Ensure the image covers the area without distorting */
+  transition: transform 0.3s ease; /* Add a smooth transition effect */
+}
+
+.about img:hover {
+  transform: scale(1.1); /* Scale the image when hovered */
+}
+

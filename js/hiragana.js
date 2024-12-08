@@ -37,6 +37,8 @@ const smallHiragana = {
     "ぴゃ": "pya", "ぴゅ": "pyu", "ぴょ": "pyo"
 };
 
+
+
 // Active dictionary for testing
 let currentDict = { ...simpleHiragana }; // Default to Simple Hiragana
 
