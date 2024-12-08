@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Katakana Practice</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Katakana Practice</h1>
+    <div class="form">
+        <p class="para"  id="hiragana-char"></p>
+        <input type="text" id="user-input" placeholder="Type the sound" autocorrect="off" autocomplete="off" autocapitalize="none">
+        <button id="submit-btn">Submit</button>
+        <p class="para" id="feedback"></p>
+        <div class="score-attempts">
+            <p class="para" ><span id="score">0</span> / <span id="attempts">0</span> / <span id="percentage">0%</span></p>
+        </div>
+    </div>
+    <p class="para" >Select the categories you want to practice:</p>
+    <div class="ch">
+        <div class="check">
+            <div class="check-box">
+                <div class="checkbox-wrapper-9 checkbox-container">
+                    <input class="tgl tgl-flat" id="cb4-9" type="checkbox" checked/>
+                    <label class="tgl-btn" for="cb4-9"></label>
+                </div> 
+            </div>
+            <h4>Simple Katakana</h4>
+        </div>
+        <div class="check">
+            <div class="check-box">
+                <div class="checkbox-wrapper-9 checkbox-container">
+                    <input class="tgl tgl-flat" id="dakuten" type="checkbox"/>
+                    <label class="tgl-btn" for="dakuten"></label>
+                </div> 
+            </div>
+            <h4>Dakuten</h4>
+        </div>
+        <div class="check">
+            <div class="check-box">
+                <div class="checkbox-wrapper-9 checkbox-container">
+                    <input class="tgl tgl-flat" id="handakuten" type="checkbox"/>
+                    <label class="tgl-btn" for="handakuten"></label>
+                </div> 
+            </div>
+            <h4>Handakuten</h4>
+        </div>
+        <div class="check">
+            <div class="check-box">
+                <div class="checkbox-wrapper-9 checkbox-container">
+                    <input class="tgl tgl-flat" id="small" type="checkbox"/>
+                    <label class="tgl-btn" for="small"></label>
+                </div> 
+            </div>
+            <h4>Yōon combinations</h4>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

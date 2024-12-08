@@ -1,0 +1,213 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #dfdfdf;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  margin-top: 75px;
+}
+input[type=text]:focus {
+  border: 3px solid #555;
+  background-color: rgb(225, 255, 224);
+}
+input[type=text] {
+  border: 3px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+.container {
+  margin: 50px auto;
+  padding: 20px;
+  max-width: 500px;
+  background: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #4caf50;
+  margin-bottom: 20px;
+}
+
+
+
+#hiragana-char {
+  font-size: 4em;
+  color: #333;
+  margin: 20px 0;
+}
+
+
+
+.checkbox-wrapper-9 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.tgl {
+  margin: 5px;
+}
+
+.tgl-btn {
+  margin-left: 10px;
+}
+
+#user-input {
+  font-size: 1em;
+  padding: 10px;
+  width: calc(100% - 40px); /* Account for padding and border */
+  max-width: 400px;
+  margin: 10px auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  display: flex;
+}
+
+button {
+  font-size: 1em;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #5acf60;
+}
+
+#feedback {
+  font-size: 1em;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.score-attempts {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  margin: 10px 0;
+  font-size: 1.5em;
+  line-height: 1.6;
+}
+#score {
+  font-weight: bold;
+  color: #459d49;
+  margin: 12px;
+}
+#attempts {
+  font-weight: bold;
+  color: #686767;
+  margin: 12px;
+}
+#percentage {
+  font-weight: bold;
+  color: #000000;
+  margin: 11px;
+}
+.check {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+
+}
+.ch {
+  display: flex;
+  justify-content: center;
+}
+
+.check-box {
+  margin: 16px;
+  display: flex;
+}
+h4 {
+  font-weight: normal;
+}
+
+.checkbox-wrapper-9 .tgl {
+  display: none;
+}
+.checkbox-wrapper-9 .tgl,
+.checkbox-wrapper-9 .tgl:after,
+.checkbox-wrapper-9 .tgl:before,
+.checkbox-wrapper-9 .tgl *,
+.checkbox-wrapper-9 .tgl *:after,
+.checkbox-wrapper-9 .tgl *:before,
+.checkbox-wrapper-9 .tgl + .tgl-btn {
+  box-sizing: border-box;
+}
+.checkbox-wrapper-9 .tgl::-moz-selection,
+.checkbox-wrapper-9 .tgl:after::-moz-selection,
+.checkbox-wrapper-9 .tgl:before::-moz-selection,
+.checkbox-wrapper-9 .tgl *::-moz-selection,
+.checkbox-wrapper-9 .tgl *:after::-moz-selection,
+.checkbox-wrapper-9 .tgl *:before::-moz-selection,
+.checkbox-wrapper-9 .tgl + .tgl-btn::-moz-selection,
+.checkbox-wrapper-9 .tgl::selection,
+.checkbox-wrapper-9 .tgl:after::selection,
+.checkbox-wrapper-9 .tgl:before::selection,
+.checkbox-wrapper-9 .tgl *::selection,
+.checkbox-wrapper-9 .tgl *:after::selection,
+.checkbox-wrapper-9 .tgl *:before::selection,
+.checkbox-wrapper-9 .tgl + .tgl-btn::selection {
+  background: none;
+}
+.checkbox-wrapper-9 .tgl + .tgl-btn {
+  outline: 0;
+  display: block;
+  width: 4em;
+  height: 2em;
+  position: relative;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.checkbox-wrapper-9 .tgl + .tgl-btn:after,
+.checkbox-wrapper-9 .tgl + .tgl-btn:before {
+  position: relative;
+  display: block;
+  content: "";
+  width: 50%;
+  height: 100%;
+}
+.checkbox-wrapper-9 .tgl + .tgl-btn:after {
+  left: 0;
+}
+.checkbox-wrapper-9 .tgl + .tgl-btn:before {
+  display: none;
+}
+.checkbox-wrapper-9 .tgl:checked + .tgl-btn:after {
+  left: 50%;
+}
+
+.checkbox-wrapper-9 .tgl-flat + .tgl-btn {
+  padding: 2px;
+  transition: all 0.2s ease;
+  background: #fff;
+  border: 4px solid #f2f2f2;
+  border-radius: 2em;
+}
+.checkbox-wrapper-9 .tgl-flat + .tgl-btn:after {
+  transition: all 0.2s ease;
+  background: #f2f2f2;
+  content: "";
+  border-radius: 1em;
+}
+.checkbox-wrapper-9 .tgl-flat:checked + .tgl-btn {
+  border: 4px solid #56df5b;
+}
+.checkbox-wrapper-9 .tgl-flat:checked + .tgl-btn:after {
+  left: 50%;
+  background: #4caf50;
+}
