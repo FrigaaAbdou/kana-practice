@@ -175,7 +175,6 @@ p {
 /* Petit écran (mobile) */
 @media (max-width: 600px) {
   .check {
-
     flex: 1 1 calc(50% - 25px); /* Chaque élément occupe 25% avec un espace entre eux */
     display: flex;
     flex-direction: column;
@@ -184,7 +183,9 @@ p {
     gap: 0px; 
     margin: 0px;
     padding: 0px;
-    background-color: #ffffff;/* Les éléments occupent toute la largeur */
+    background-color: #d0eacb;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);/* Les éléments occupent toute la largeur */
   }
   .para {
     margin: 0px;
