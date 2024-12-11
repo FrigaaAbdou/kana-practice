@@ -4,3 +4,5 @@
 Check out my projects and feel free to reach out! ✨
 
 https://kakikata-senpai.netlify.app
+
+This app certified from copyright 
