@@ -1,0 +1,502 @@
+[
+    {
+        "question": "山",
+        "options": ["King (ou)", "Mountain (yama)", "High (takai)", "Car (kuruma)"],
+        "answer": "Mountain (yama)"
+    },
+    {
+        "question": "川",
+        "options": ["New (atarashii)", "King (ou)", "Right (migi)", "River (kawa)"],
+        "answer": "River (kawa)"
+    },
+    {
+        "question": "水",
+        "options": ["Wave (nami)", "Moon (tsuki)", "Water (mizu)", "Cloud (kumo)"],
+        "answer": "Water (mizu)"
+    },
+    {
+        "question": "火",
+        "options": ["Fire (hi)", "Flower (hana)", "Cat (neko)", "Bamboo (take)"],
+        "answer": "Fire (hi)"
+    },
+    {
+        "question": "木",
+        "options": ["Tree (ki)", "Road (michi)", "Silver (gin)", "Dog (inu)"],
+        "answer": "Tree (ki)"
+    },
+    {
+        "question": "空",
+        "options": ["Sky (sora)", "Lake (mizuumi)", "Grass (kusa)", "Sheep (hitsuji)"],
+        "answer": "Sky (sora)"
+    },
+    {
+        "question": "金",
+        "options": ["Gold (kin)", "Snow (yuki)", "Fish (sakana)", "Rain (ame)"],
+        "answer": "Gold (kin)"
+    },
+    {
+        "question": "土",
+        "options": ["Earth (tsuchi)", "Island (shima)", "Sea (umi)", "Sound (oto)"],
+        "answer": "Earth (tsuchi)"
+    },
+    {
+        "question": "日",
+        "options": ["Sun (hi)", "Bird (tori)", "Valley (tani)", "Stone (ishi)"],
+        "answer": "Sun (hi)"
+    },
+    {
+        "question": "月",
+        "options": ["Moon (tsuki)", "Electricity (den)", "Field (hatake)", "Wind (kaze)"],
+        "answer": "Moon (tsuki)"
+    },
+    {
+        "question": "人",
+        "options": ["Person (hito)", "Horse (uma)", "Light (hikari)", "Picture (ga)"],
+        "answer": "Person (hito)"
+    },
+    {
+        "question": "口",
+        "options": ["Mouth (kuchi)", "Star (hoshi)", "Cloud (kumo)", "Country (kuni)"],
+        "answer": "Mouth (kuchi)"
+    },
+    {
+        "question": "手",
+        "options": ["Hand (te)", "Dark (kurai)", "Early (hayai)", "Forest (mori)"],
+        "answer": "Hand (te)"
+    },
+    {
+        "question": "足",
+        "options": ["Foot (ashi)", "Flower (hana)", "Bright (akarui)", "Garden (sono)"],
+        "answer": "Foot (ashi)"
+    },
+    {
+        "question": "目",
+        "options": ["Eye (me)", "Tall (takai)", "Rest (yasumu)", "Boat (fune)"],
+        "answer": "Eye (me)"
+    },
+    {
+        "question": "耳",
+        "options": ["Ear (mimi)", "Write (kaku)", "Ship (fune)", "Snow (yuki)"],
+        "answer": "Ear (mimi)"
+    },
+    {
+        "question": "鼻",
+        "options": ["Nose (hana)", "Drink (nomu)", "Dog (inu)", "Lake (mizuumi)"],
+        "answer": "Nose (hana)"
+    },
+    {
+        "question": "心",
+        "options": ["Heart (kokoro)", "Ice (kōri)", "Bronze (dou)", "Hill (oka)"],
+        "answer": "Heart (kokoro)"
+    },
+    {
+        "question": "車",
+        "options": ["Car (kuruma)", "Cat (neko)", "Ear (mimi)", "Wind (kaze)"],
+        "answer": "Car (kuruma)"
+    },
+    {
+        "question": "電",
+        "options": ["Electricity (den)", "Sea (umi)", "Tree (ki)", "Stone (ishi)"],
+        "answer": "Electricity (den)"
+    },
+    {
+        "question": "魚",
+        "options": ["Fish (sakana)", "Rain (ame)", "Hand (te)", "Garden (sono)"],
+        "answer": "Fish (sakana)"
+    },
+    {
+        "question": "鳥",
+        "options": ["Bird (tori)", "Valley (tani)", "Mountain (yama)", "Fire (hi)"],
+        "answer": "Bird (tori)"
+    },
+    {
+        "question": "犬",
+        "options": ["Dog (inu)", "Cloud (kumo)", "Cat (neko)", "River (kawa)"],
+        "answer": "Dog (inu)"
+    },
+    {
+        "question": "猫",
+        "options": ["Cat (neko)", "Road (michi)", "Ship (fune)", "Rain (ame)"],
+        "answer": "Cat (neko)"
+    },
+    {
+        "question": "花",
+        "options": ["Flower (hana)", "Wind (kaze)", "Electricity (den)", "Lake (mizuumi)"],
+        "answer": "Flower (hana)"
+    },
+    {
+        "question": "草",
+        "options": ["Grass (kusa)", "Bird (tori)", "Picture (ga)", "Sun (hi)"],
+        "answer": "Grass (kusa)"
+    },
+    {
+        "question": "竹",
+        "options": ["Bamboo (take)", "Moon (tsuki)", "River (kawa)", "Sky (sora)"],
+        "answer": "Bamboo (take)"
+    },
+    {
+        "question": "石",
+        "options": ["Stone (ishi)", "Lion (raion)", "Garden (sono)", "Rest (yasumu)"],
+        "answer": "Stone (ishi)"
+    },
+    {
+        "question": "雨",
+        "options": ["Rain (ame)", "Forest (mori)", "Friend (tomo)", "School (kou)"],
+        "answer": "Rain (ame)"
+    },
+    {
+        "question": "雪",
+        "options": ["Snow (yuki)", "Wind (kaze)", "Cow (ushi)", "Bamboo (take)"],
+        "answer": "Snow (yuki)"
+    },
+    {
+        "question": "風",
+        "options": ["Wind (kaze)", "Cloud (kumo)", "Boss (shachō)", "Nose (hana)"],
+        "answer": "Wind (kaze)"
+    },
+    {
+        "question": "天",
+        "options": ["Heaven (ten)", "Ear (mimi)", "Island (shima)", "Valley (tani)"],
+        "answer": "Heaven (ten)"
+    },
+    {
+        "question": "気",
+        "options": ["Spirit (ki)", "Fire (hi)", "Horse (uma)", "Tree (ki)"],
+        "answer": "Spirit (ki)"
+    },
+    {
+        "question": "学",
+        "options": ["Study (gaku)", "Gold (kin)", "Bird (tori)", "Sea (umi)"],
+        "answer": "Study (gaku)"
+    },
+    {
+        "question": "校",
+        "options": ["School (kou)", "Rest (yasumu)", "Flower (hana)", "Cat (neko)"],
+        "answer": "School (kou)"
+    },
+    {
+        "question": "先",
+        "options": ["Ahead (saki)", "Mountain (yama)", "Fire (hi)", "Stone (ishi)"],
+        "answer": "Ahead (saki)"
+    },
+    {
+        "question": "生",
+        "options": ["Life (sei)", "Fish (sakana)", "Lake (mizuumi)", "Road (michi)"],
+        "answer": "Life (sei)"
+    },
+    {
+        "question": "友",
+        "options": ["Friend (tomo)", "Dog (inu)", "Write (kaku)", "Rain (ame)"],
+        "answer": "Friend (tomo)"
+    },
+    {
+        "question": "本",
+        "options": ["Book (hon)", "Horse (uma)", "Island (shima)", "Road (michi)"],
+        "answer": "Book (hon)"
+    },
+    {
+        "question": "文",
+        "options": ["Sentence (bun)", "Tree (ki)", "High (takai)", "Star (hoshi)"],
+        "answer": "Sentence (bun)"
+    },
+    {
+        "question": "字",
+        "options": ["Character (ji)", "Sun (hi)", "Cat (neko)", "Cow (ushi)"],
+        "answer": "Character (ji)"
+    },
+    {
+        "question": "書",
+        "options": ["Write (kaku)", "Bird (tori)", "Fish (sakana)", "Lake (mizuumi)"],
+        "answer": "Write (kaku)"
+    },
+    {
+        "question": "読",
+        "options": ["Read (yomu)", "Moon (tsuki)", "Island (shima)", "Stone (ishi)"],
+        "answer": "Read (yomu)"
+    },
+    {
+        "question": "食",
+        "options": ["Eat (taberu)", "Rain (ame)", "River (kawa)", "Wind (kaze)"],
+        "answer": "Eat (taberu)"
+    },
+    {
+        "question": "飲",
+        "options": ["Drink (nomu)", "Gold (kin)", "Friend (tomo)", "Cloud (kumo)"],
+        "answer": "Drink (nomu)"
+    },
+    {
+        "question": "休",
+        "options": ["Rest (yasumu)", "Sea (umi)", "Light (hikari)", "Cat (neko)"],
+        "answer": "Rest (yasumu)"
+    },
+    {
+        "question": "体",
+        "options": ["Body (karada)", "Bamboo (take)", "Wind (kaze)", "Horse (uma)"],
+        "answer": "Body (karada)"
+    },
+    {
+        "question": "会",
+        "options": ["Meet (au)", "High (takai)", "Spirit (ki)", "Flower (hana)"],
+        "answer": "Meet (au)"
+    },
+    {
+        "question": "社",
+        "options": ["Company (sha)", "Valley (tani)", "Forest (mori)", "Gold (kin)"],
+        "answer": "Company (sha)"
+    },
+    {
+        "question": "店",
+        "options": ["Shop (mise)", "Road (michi)", "Country (kuni)", "Island (shima)"],
+        "answer": "Shop (mise)"
+    },
+    {
+        "question": "時",
+        "options": ["Time (toki)", "Cat (neko)", "Snow (yuki)", "Island (shima)"],
+        "answer": "Time (toki)"
+    },
+    {
+        "question": "分",
+        "options": ["Minute (fun)", "Bamboo (take)", "River (kawa)", "Garden (sono)"],
+        "answer": "Minute (fun)"
+    },
+    {
+        "question": "半",
+        "options": ["Half (han)", "Rain (ame)", "School (kou)", "Gold (kin)"],
+        "answer": "Half (han)"
+    },
+    {
+        "question": "前",
+        "options": ["Before (mae)", "Sea (umi)", "Nose (hana)", "Island (shima)"],
+        "answer": "Before (mae)"
+    },
+    {
+        "question": "後",
+        "options": ["After (ato)", "Forest (mori)", "Horse (uma)", "Friend (tomo)"],
+        "answer": "After (ato)"
+    },
+    {
+        "question": "上",
+        "options": ["Up (ue)", "Grass (kusa)", "Fish (sakana)", "Wind (kaze)"],
+        "answer": "Up (ue)"
+    },
+    {
+        "question": "下",
+        "options": ["Down (shita)", "Mountain (yama)", "Bright (akarui)", "Bamboo (take)"],
+        "answer": "Down (shita)"
+    },
+    {
+        "question": "左",
+        "options": ["Left (hidari)", "Cloud (kumo)", "Wind (kaze)", "Lake (mizuumi)"],
+        "answer": "Left (hidari)"
+    },
+    {
+        "question": "右",
+        "options": ["Right (migi)", "Dog (inu)", "Heaven (ten)", "Stone (ishi)"],
+        "answer": "Right (migi)"
+    },
+    {
+        "question": "中",
+        "options": ["Middle (naka)", "Light (hikari)", "Boat (fune)", "Horse (uma)"],
+        "answer": "Middle (naka)"
+    },
+    {
+        "question": "大",
+        "options": ["Big (ookii)", "Island (shima)", "Lake (mizuumi)", "Forehead (hitai)"],
+        "answer": "Big (ookii)"
+    },
+    {
+        "question": "小",
+        "options": ["Small (chiisai)", "Picture (ga)", "Fire (hi)", "Country (kuni)"],
+        "answer": "Small (chiisai)"
+    },
+    {
+        "question": "長",
+        "options": ["Long (nagai)", "Bamboo (take)", "Friend (tomo)", "Stone (ishi)"],
+        "answer": "Long (nagai)"
+    },
+    {
+        "question": "短",
+        "options": ["Short (mijikai)", "Mountain (yama)", "Flower (hana)", "Boat (fune)"],
+        "answer": "Short (mijikai)"
+    },
+    {
+        "question": "新",
+        "options": ["New (atarashii)", "Sea (umi)", "Dog (inu)", "Valley (tani)"],
+        "answer": "New (atarashii)"
+    },
+    {
+        "question": "古",
+        "options": ["Old (furui)", "Cloud (kumo)", "Bird (tori)", "Lake (mizuumi)"],
+        "answer": "Old (furui)"
+    },
+    {
+        "question": "白",
+        "options": ["White (shiro)", "Wind (kaze)", "Horse (uma)", "Stone (ishi)"],
+        "answer": "White (shiro)"
+    },
+    {
+        "question": "黒",
+        "options": ["Black (kuro)", "Sea (umi)", "Picture (ga)", "Tree (ki)"],
+        "answer": "Black (kuro)"
+    },
+    {
+        "question": "赤",
+        "options": ["Red (aka)", "Cat (neko)", "Island (shima)", "Horse (uma)"],
+        "answer": "Red (aka)"
+    },
+    {
+        "question": "青",
+        "options": ["Blue (ao)", "Rain (ame)", "Cloud (kumo)", "Picture (ga)"],
+        "answer": "Blue (ao)"
+    },
+    {
+        "question": "黄",
+        "options": ["Yellow (kiiro)", "Nose (hana)", "Bird (tori)", "Snow (yuki)"],
+        "answer": "Yellow (kiiro)"
+    },
+    {
+        "question": "多",
+        "options": ["Many (ooi)", "Wind (kaze)", "Horse (uma)", "Picture (ga)"],
+        "answer": "Many (ooi)"
+    },
+    {
+        "question": "少",
+        "options": ["Few (sukunai)", "Road (michi)", "Sun (hi)", "Fish (sakana)"],
+        "answer": "Few (sukunai)"
+    },
+    {
+        "question": "高",
+        "options": ["High (takai)", "Flower (hana)", "Dog (inu)", "Rain (ame)"],
+        "answer": "High (takai)"
+    },
+    {
+        "question": "安",
+        "options": ["Cheap (yasui)", "Lake (mizuumi)", "Stone (ishi)", "Picture (ga)"],
+        "answer": "Cheap (yasui)"
+    },
+    {
+        "question": "早",
+        "options": ["Early (hayai)", "Cat (neko)", "Tree (ki)", "Friend (tomo)"],
+        "answer": "Early (hayai)"
+    },
+    {
+        "question": "明",
+        "options": ["Bright (akarui)", "Sea (umi)", "Gold (kin)", "Bird (tori)"],
+        "answer": "Bright (akarui)"
+    },
+    {
+        "question": "暗",
+        "options": ["Dark (kurai)", "River (kawa)", "Snow (yuki)", "Island (shima)"],
+        "answer": "Dark (kurai)"
+    },
+    {
+        "question": "強",
+        "options": ["Strong (tsuyoi)", "Wind (kaze)", "Flower (hana)", "Rabbit (usagi)"],
+        "answer": "Strong (tsuyoi)"
+    },
+    {
+        "question": "弱",
+        "options": ["Weak (yowai)", "Lake (mizuumi)", "Cat (neko)", "Stone (ishi)"],
+        "answer": "Weak (yowai)"
+    },
+    {
+        "question": "園",
+        "options": ["Garden (sono)", "Snow (yuki)", "Mountain (yama)", "Horse (uma)"],
+        "answer": "Garden (sono)"
+    },
+    {
+        "question": "海",
+        "options": ["Sea (umi)", "Cat (neko)", "Island (shima)", "Boat (fune)"],
+        "answer": "Sea (umi)"
+    },
+    {
+        "question": "湖",
+        "options": ["Lake (mizuumi)", "Light (hikari)", "Fish (sakana)", "Forest (mori)"],
+        "answer": "Lake (mizuumi)"
+    },
+    {
+        "question": "島",
+        "options": ["Island (shima)", "Wind (kaze)", "Horse (uma)", "Stone (ishi)"],
+        "answer": "Island (shima)"
+    },
+    {
+        "question": "谷",
+        "options": ["Valley (tani)", "Cloud (kumo)", "Dog (inu)", "Bird (tori)"],
+        "answer": "Valley (tani)"
+    },
+    {
+        "question": "星",
+        "options": ["Star (hoshi)", "Sea (umi)", "Lake (mizuumi)", "Fish (sakana)"],
+        "answer": "Star (hoshi)"
+    },
+    {
+        "question": "光",
+        "options": ["Light (hikari)", "Tree (ki)", "Mountain (yama)", "Garden (sono)"],
+        "answer": "Light (hikari)"
+    },
+    {
+        "question": "音",
+        "options": ["Sound (oto)", "River (kawa)", "Rain (ame)", "Island (shima)"],
+        "answer": "Sound (oto)"
+    },
+    {
+        "question": "画",
+        "options": ["Picture (ga)", "Lake (mizuumi)", "Bird (tori)", "Wind (kaze)"],
+        "answer": "Picture (ga)"
+    },
+    {
+        "question": "船",
+        "options": ["Ship (fune)", "Snow (yuki)", "Cat (neko)", "Tree (ki)"],
+        "answer": "Ship (fune)"
+    },
+    {
+        "question": "道",
+        "options": ["Road (michi)", "Rain (ame)", "Fish (sakana)", "Cloud (kumo)"],
+        "answer": "Road (michi)"
+    },
+    {
+        "question": "雲",
+        "options": ["Cloud (kumo)", "Horse (uma)", "Dog (inu)", "Cat (neko)"],
+        "answer": "Cloud (kumo)"
+    },
+    {
+        "question": "森",
+        "options": ["Forest (mori)", "Wind (kaze)", "Sea (umi)", "Stone (ishi)"],
+        "answer": "Forest (mori)"
+    },
+    {
+        "question": "林",
+        "options": ["Woods (hayashi)", "Island (shima)", "Cat (neko)", "Lake (mizuumi)"],
+        "answer": "Woods (hayashi)"
+    },
+    {
+        "question": "畑",
+        "options": ["Field (hatake)", "Light (hikari)", "River (kawa)", "Bird (tori)"],
+        "answer": "Field (hatake)"
+    },
+    {
+        "question": "馬",
+        "options": ["Horse (uma)", "Fish (sakana)", "Rain (ame)", "Road (michi)"],
+        "answer": "Horse (uma)"
+    },
+    {
+        "question": "牛",
+        "options": ["Cow (ushi)", "Tree (ki)", "Bird (tori)", "Wind (kaze)"],
+        "answer": "Cow (ushi)"
+    },
+    {
+        "question": "玉",
+        "options": ["Ball (tama)", "Island (shima)", "Cat (neko)", "Sea (umi)"],
+        "answer": "Ball (tama)"
+    },
+    {
+        "question": "王",
+        "options": ["King (ou)", "Field (hatake)", "Horse (uma)", "Flower (hana)"],
+        "answer": "King (ou)"
+    },
+    {
+        "question": "国",
+        "options": ["Country (kuni)", "Lake (mizuumi)", "Friend (tomo)", "Cat (neko)"],
+        "answer": "Country (kuni)"
+    }
+]

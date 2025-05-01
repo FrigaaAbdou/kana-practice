@@ -1,0 +1,502 @@
+[
+    {
+        "question": "行",
+        "options": ["Inside (uchi)", "Warm (atatakai)", "Go (iku)", "England (ei)"],
+        "answer": "Go (iku)"
+    },
+    {
+        "question": "来",
+        "options": ["Come (kuru)", "Stand (tatsu)", "Live (sumu)", "Interval (aida)"],
+        "answer": "Come (kuru)"
+    },
+    {
+        "question": "帰",
+        "options": ["Travel (tabi)", "Return (kaeru)", "Wild Field (no)", "Bow (yumi)"],
+        "answer": "Return (kaeru)"
+    },
+    {
+        "question": "見",
+        "options": ["See (miru)", "Bone (hone)", "Evening (yuu)", "Bow (yumi)"],
+        "answer": "See (miru)"
+    },
+    {
+        "question": "聞",
+        "options": ["Meat (niku)", "Hear (kiku)", "Wheat (mugi)", "Enter (hairu)"],
+        "answer": "Hear (kiku)"
+    },
+    {
+        "question": "言",
+        "options": ["Say (iu)", "Field (hatake)", "Arrow (ya)", "Bridge (hashi)"],
+        "answer": "Say (iu)"
+    },
+    {
+        "question": "話",
+        "options": ["Speak (hanasu)", "Pond (ike)", "Far (tooi)", "Silver (gin)"],
+        "answer": "Speak (hanasu)"
+    },
+    {
+        "question": "買",
+        "options": ["Buy (kau)", "Cold (samui)", "Think (omou)", "Rice (kome)"],
+        "answer": "Buy (kau)"
+    },
+    {
+        "question": "売",
+        "options": ["Sell (uru)", "Near (chikai)", "Bronze (dou)", "Gate (mon)"],
+        "answer": "Sell (uru)"
+    },
+    {
+        "question": "立",
+        "options": ["Stand (tatsu)", "Port (minato)", "Use (tsukau)", "Night (yoru)"],
+        "answer": "Stand (tatsu)"
+    },
+    {
+        "question": "座",
+        "options": ["Sit (suwaru)", "Head (atama)", "SpringWater (izumi)", "Wide (hiroi)"],
+        "answer": "Sit (suwaru)"
+    },
+    {
+        "question": "入",
+        "options": ["Enter (hairu)", "City (shi)", "Sword (katana)", "Hot (atsui)"],
+        "answer": "Enter (hairu)"
+    },
+    {
+        "question": "出",
+        "options": ["Exit (deru)", "Pond (ike)", "Slow (osoi)", "Morning (asa)"],
+        "answer": "Exit (deru)"
+    },
+    {
+        "question": "開",
+        "options": ["Open (hiraku)", "Cloth (nuno)", "Doctor (i)", "Dance (—)"],
+        "answer": "Open (hiraku)"
+    },
+    {
+        "question": "閉",
+        "options": ["Close (tojiru)", "Heavy (omoi)", "Language (go)", "Tea (cha)"],
+        "answer": "Close (tojiru)"
+    },
+    {
+        "question": "門",
+        "options": ["Gate (mon)", "Move (ugoku)", "Evening (yuu)", "Head (atama)"],
+        "answer": "Gate (mon)"
+    },
+    {
+        "question": "間",
+        "options": ["Interval (aida)", "Fast (hayai)", "Bronze (dou)", "Sword (katana)"],
+        "answer": "Interval (aida)"
+    },
+    {
+        "question": "昼",
+        "options": ["Daytime (hiru)", "Speak (hanasu)", "Meat (niku)", "Spring (haru)"],
+        "answer": "Daytime (hiru)"
+    },
+    {
+        "question": "夜",
+        "options": ["Night (yoru)", "Return (kaeru)", "Port (minato)", "Slow (osoi)"],
+        "answer": "Night (yoru)"
+    },
+    {
+        "question": "朝",
+        "options": ["Morning (asa)", "Cold (samui)", "Doctor (i)", "Travel (tabi)"],
+        "answer": "Morning (asa)"
+    },
+    {
+        "question": "夕",
+        "options": ["Evening (yuu)", "Cloth (nuno)", "Wide (hiroi)", "Bow (yumi)"],
+        "answer": "Evening (yuu)"
+    },
+    {
+        "question": "今",
+        "options": ["Now (ima)", "Think (omou)", "Use (tsukau)", "Field (hatake)"],
+        "answer": "Now (ima)"
+    },
+    {
+        "question": "毎",
+        "options": ["Every (mai)", "Port (minato)", "Pond (ike)", "Travel (tabi)"],
+        "answer": "Every (mai)"
+    },
+    {
+        "question": "週",
+        "options": ["Week (shuu)", "Bamboo (take)", "Rain (—)", "Garden (—)"],
+        "answer": "Week (shuu)"
+    },
+    {
+        "question": "年",
+        "options": ["Year (toshi)", "Wild Field (no)", "Bridge (hashi)", "Village (mura)"],
+        "answer": "Year (toshi)"
+    },
+    {
+        "question": "午",
+        "options": ["Noon (go)", "Power (chikara)", "Evening (yuu)", "Wide (hiroi)"],
+        "answer": "Noon (go)"
+    },
+    {
+        "question": "東",
+        "options": ["East (higashi)", "Long (nagai)", "Heavy (omoi)", "Arrow (ya)"],
+        "answer": "East (higashi)"
+    },
+    {
+        "question": "西",
+        "options": ["West (nishi)", "Bone (hone)", "Paper (kami)", "Spirit (—)"],
+        "answer": "West (nishi)"
+    },
+    {
+        "question": "南",
+        "options": ["South (minami)", "Snow (—)", "Bronze (dou)", "Inside (uchi)"],
+        "answer": "South (minami)"
+    },
+    {
+        "question": "北",
+        "options": ["North (kita)", "Hot (atsui)", "Liver —", "Bridge (hashi)"],
+        "answer": "North (kita)"
+    },
+    {
+        "question": "外",
+        "options": ["Outside (soto)", "Meat (niku)", "Bronze (dou)", "Gate (mon)"],
+        "answer": "Outside (soto)"
+    },
+    {
+        "question": "内",
+        "options": ["Inside (uchi)", "Return (kaeru)", "Swim (oyogu)", "Hot (atsui)"],
+        "answer": "Inside (uchi)"
+    },
+    {
+        "question": "町",
+        "options": ["Town (machi)", "Cool (suzushii)", "Warm (atatakai)", "Sword (katana)"],
+        "answer": "Town (machi)"
+    },
+    {
+        "question": "村",
+        "options": ["Village (mura)", "Far (tooi)", "Enter (hairu)", "Rice (kome)"],
+        "answer": "Village (mura)"
+    },
+    {
+        "question": "市",
+        "options": ["City (shi)", "Cloth (nuno)", "Slow (osoi)", "King (ou)"],
+        "answer": "City (shi)"
+    },
+    {
+        "question": "鉄",
+        "options": ["Iron (tetsu)", "Shop (ya)", "Power (chikara)", "Language (go)"],
+        "answer": "Iron (tetsu)"
+    },
+    {
+        "question": "駅",
+        "options": ["Station (eki)", "Bow (yumi)", "Morning (asa)", "Bronze (dou)"],
+        "answer": "Station (eki)"
+    },
+    {
+        "question": "屋",
+        "options": ["Shop (ya)", "Near (chikai)", "Blood (chi)", "Face (kao)"],
+        "answer": "Shop (ya)"
+    },
+    {
+        "question": "橋",
+        "options": ["Bridge (hashi)", "Doctor (i)", "Bronze (dou)", "Heavy (omoi)"],
+        "answer": "Bridge (hashi)"
+    },
+    {
+        "question": "池",
+        "options": ["Pond (ike)", "Wind (—)", "Return (kaeru)", "Snow (—)"],
+        "answer": "Pond (ike)"
+    },
+    {
+        "question": "港",
+        "options": ["Port (minato)", "Use (tsukau)", "Shop (ya)", "Sword (katana)"],
+        "answer": "Port (minato)"
+    },
+    {
+        "question": "場",
+        "options": ["Place (ba)", "Field (no)", "Work (hataraku)", "Morning (asa)"],
+        "answer": "Place (ba)"
+    },
+    {
+        "question": "野",
+        "options": ["Field (no)", "Bridge (hashi)", "Slow (osoi)", "Warm (atatakai)"],
+        "answer": "Field (no)"
+    },
+    {
+        "question": "科",
+        "options": ["Department (ka)", "Swim (oyogu)", "Paper (kami)", "Village (mura)"],
+        "answer": "Department (ka)"
+    },
+    {
+        "question": "医",
+        "options": ["Doctor (i)", "Cloth (nuno)", "Thread (ito)", "Heavy (omoi)"],
+        "answer": "Doctor (i)"
+    },
+    {
+        "question": "者",
+        "options": ["Person (sha)", "Bronze (dou)", "Inside (uchi)", "Warm (atatakai)"],
+        "answer": "Person (sha)"
+    },
+    {
+        "question": "頭",
+        "options": ["Head (atama)", "Interval (aida)", "Pond (ike)", "Long (nagai)"],
+        "answer": "Head (atama)"
+    },
+    {
+        "question": "顔",
+        "options": ["Face (kao)", "Sword (katana)", "Warm (atatakai)", "Return (kaeru)"],
+        "answer": "Face (kao)"
+    },
+    {
+        "question": "首",
+        "options": ["Neck (kubi)", "Bridge (hashi)", "Hot (atsui)", "King (ou)"],
+        "answer": "Neck (kubi)"
+    },
+    {
+        "question": "血",
+        "options": ["Blood (chi)", "Use (tsukau)", "Rice (kome)", "Evening (yuu)"],
+        "answer": "Blood (chi)"
+    },
+    {
+        "question": "肉",
+        "options": ["Meat (niku)", "Evening (yuu)", "Far (tooi)", "Enter (hairu)"],
+        "answer": "Meat (niku)"
+    },
+    {
+        "question": "骨",
+        "options": ["Bone (hone)", "Cloth (nuno)", "Lake (—)", "Village (mura)"],
+        "answer": "Bone (hone)"
+    },
+    {
+        "question": "力",
+        "options": ["Power (chikara)", "Bow (yumi)", "Cold (samui)", "Doctor (i)"],
+        "answer": "Power (chikara)"
+    },
+    {
+        "question": "動",
+        "options": ["Move (ugoku)", "Travel (tabi)", "Bronze (dou)", "Wild Field (no)"],
+        "answer": "Move (ugoku)"
+    },
+    {
+        "question": "働",
+        "options": ["Work (hataraku)", "Warm (atatakai)", "Sword (katana)", "Port (minato)"],
+        "answer": "Work (hataraku)"
+    },
+    {
+        "question": "作",
+        "options": ["Make (tsukuru)", "Evening (yuu)", "Thread (ito)", "Live (sumu)"],
+        "answer": "Make (tsukuru)"
+    },
+    {
+        "question": "使",
+        "options": ["Use (tsukau)", "Neck (kubi)", "Wheat (mugi)", "Wide (hiroi)"],
+        "answer": "Use (tsukau)"
+    },
+    {
+        "question": "住",
+        "options": ["Live (sumu)", "Travel (tabi)", "Cloth (nuno)", "Paper (kami)"],
+        "answer": "Live (sumu)"
+    },
+    {
+        "question": "知",
+        "options": ["Know (shiru)", "Head (atama)", "Village (mura)", "Long (nagai)"],
+        "answer": "Know (shiru)"
+    },
+    {
+        "question": "思",
+        "options": ["Think (omou)", "Bronze (dou)", "Station (eki)", "Bridge (hashi)"],
+        "answer": "Think (omou)"
+    },
+    {
+        "question": "重",
+        "options": ["Heavy (omoi)", "Cold (samui)", "Shop (ya)", "Power (chikara)"],
+        "answer": "Heavy (omoi)"
+    },
+    {
+        "question": "軽",
+        "options": ["Light (karui)", "Return (kaeru)", "Port (minato)", "Cold (samui)"],
+        "answer": "Light (karui)"
+    },
+    {
+        "question": "広",
+        "options": ["Wide (hiroi)", "Iron (tetsu)", "Thread (ito)", "Long (nagai)"],
+        "answer": "Wide (hiroi)"
+    },
+    {
+        "question": "狭",
+        "options": ["Narrow (semai)", "Think (omou)", "Lake —", "Doctor (i)"],
+        "answer": "Narrow (semai)"
+    },
+    {
+        "question": "遠",
+        "options": ["Far (tooi)", "Evening (yuu)", "Language (go)", "Warm (atatakai)"],
+        "answer": "Far (tooi)"
+    },
+    {
+        "question": "近",
+        "options": ["Near (chikai)", "Doctor (i)", "Wild Field (no)", "Swim (oyogu)"],
+        "answer": "Near (chikai)"
+    },
+    {
+        "question": "速",
+        "options": ["Fast (hayai)", "Slow (osoi)", "Arrow (ya)", "Thread (ito)"],
+        "answer": "Fast (hayai)"
+    },
+    {
+        "question": "遅",
+        "options": ["Slow (osoi)", "Bronze (dou)", "Bow (yumi)", "Wide (hiroi)"],
+        "answer": "Slow (osoi)"
+    },
+    {
+        "question": "暑",
+        "options": ["Hot (atsui)", "Head (atama)", "Cool (suzushii)", "Port (minato)"],
+        "answer": "Hot (atsui)"
+    },
+    {
+        "question": "寒",
+        "options": ["Cold (samui)", "Live (sumu)", "Language (go)", "Return (kaeru)"],
+        "answer": "Cold (samui)"
+    },
+    {
+        "question": "温",
+        "options": ["Warm (atatakai)", "Enter (hairu)", "Doctor (i)", "Neck (kubi)"],
+        "answer": "Warm (atatakai)"
+    },
+    {
+        "question": "涼",
+        "options": ["Cool (suzushii)", "Heavy (omoi)", "Work (hataraku)", "Thread (ito)"],
+        "answer": "Cool (suzushii)"
+    },
+    {
+        "question": "春",
+        "options": ["Spring (haru)", "Knee —", "Gate (mon)", "Silver (gin)"],
+        "answer": "Spring (haru)"
+    },
+    {
+        "question": "夏",
+        "options": ["Summer (natsu)", "Bow (yumi)", "Inside (uchi)", "Hot (atsui)"],
+        "answer": "Summer (natsu)"
+    },
+    {
+        "question": "秋",
+        "options": ["Autumn (aki)", "Travel (tabi)", "Village (mura)", "Slow (osoi)"],
+        "answer": "Autumn (aki)"
+    },
+    {
+        "question": "冬",
+        "options": ["Winter (fuyu)", "Near (chikai)", "Speak (hanasu)", "Shop (ya)"],
+        "answer": "Winter (fuyu)"
+    },
+    {
+        "question": "英",
+        "options": ["England (ei)", "Lake —", "Port (minato)", "Arrow (ya)"],
+        "answer": "England (ei)"
+    },
+    {
+        "question": "語",
+        "options": ["Language (go)", "Dog —", "Return (kaeru)", "Thread (ito)"],
+        "answer": "Language (go)"
+    },
+    {
+        "question": "旅",
+        "options": ["Travel (tabi)", "Gate (mon)", "Port (minato)", "Bone (hone)"],
+        "answer": "Travel (tabi)"
+    },
+    {
+        "question": "泳",
+        "options": ["Swim (oyogu)", "Interval (aida)", "Wide (hiroi)", "Fish —"],
+        "answer": "Swim (oyogu)"
+    },
+    {
+        "question": "歌",
+        "options": ["Song (uta)", "Return (kaeru)", "Warm (atatakai)", "Shop (ya)"],
+        "answer": "Song (uta)"
+    },
+    {
+        "question": "楽",
+        "options": ["Pleasure (tanoshi)", "Heat —", "Thread (ito)", "Doctor (i)"],
+        "answer": "Pleasure (tanoshi)"
+    },
+    {
+        "question": "弓",
+        "options": ["Bow (yumi)", "Bronze (dou)", "Warm (atatakai)", "Think (omou)"],
+        "answer": "Bow (yumi)"
+    },
+    {
+        "question": "矢",
+        "options": ["Arrow (ya)", "Village (mura)", "Doctor (i)", "Paper (kami)"],
+        "answer": "Arrow (ya)"
+    },
+    {
+        "question": "刀",
+        "options": ["Sword (katana)", "Know (shiru)", "Bronze (dou)", "Gate (mon)"],
+        "answer": "Sword (katana)"
+    },
+    {
+        "question": "紙",
+        "options": ["Paper (kami)", "Live (sumu)", "Head (atama)", "Heavy (omoi)"],
+        "answer": "Paper (kami)"
+    },
+    {
+        "question": "糸",
+        "options": ["Thread (ito)", "Slow (osoi)", "Meat (niku)", "Pond (ike)"],
+        "answer": "Thread (ito)"
+    },
+    {
+        "question": "布",
+        "options": ["Cloth (nuno)", "Evening (yuu)", "Bronze (dou)", "Bow (yumi)"],
+        "answer": "Cloth (nuno)"
+    },
+    {
+        "question": "貝",
+        "options": ["Shell (kai)", "Village (mura)", "Enter (hairu)", "Return (kaeru)"],
+        "answer": "Shell (kai)"
+    },
+    {
+        "question": "銀",
+        "options": ["Silver (gin)", "Hot (atsui)", "Hammer —", "Thread (ito)"],
+        "answer": "Silver (gin)"
+    },
+    {
+        "question": "銅",
+        "options": ["Bronze (dou)", "Bow (yumi)", "Interval (aida)", "Bridge (hashi)"],
+        "answer": "Bronze (dou)"
+    },
+    {
+        "question": "皿",
+        "options": ["Plate (sara)", "Village (mura)", "Dog —", "Paper (kami)"],
+        "answer": "Plate (sara)"
+    },
+    {
+        "question": "茶",
+        "options": ["Tea (cha)", "Return (kaeru)", "Use (tsukau)", "Cloth (nuno)"],
+        "answer": "Tea (cha)"
+    },
+    {
+        "question": "酒",
+        "options": ["Alcohol (sake)", "Thread (ito)", "Bow (yumi)", "Village (mura)"],
+        "answer": "Alcohol (sake)"
+    },
+    {
+        "question": "米",
+        "options": ["Rice (kome)", "Warm (atatakai)", "Heavy (omoi)", "Doctor (i)"],
+        "answer": "Rice (kome)"
+    },
+    {
+        "question": "麦",
+        "options": ["Wheat (mugi)", "Interval (aida)", "Return (kaeru)", "Bronze (dou)"],
+        "answer": "Wheat (mugi)"
+    },
+    {
+        "question": "豆",
+        "options": ["Bean (mame)", "Thread (ito)", "Doctor (i)", "Village (mura)"],
+        "answer": "Bean (mame)"
+    },
+    {
+        "question": "油",
+        "options": ["Oil (abura)", "Arrow (ya)", "Bow (yumi)", "Work (hataraku)"],
+        "answer": "Oil (abura)"
+    },
+    {
+        "question": "塩",
+        "options": ["Salt (shio)", "Warm (atatakai)", "Night (yoru)", "Return (kaeru)"],
+        "answer": "Salt (shio)"
+    },
+    {
+        "question": "泉",
+        "options": ["SpringWater (izumi)", "Cloth (nuno)", "Sword (katana)", "Doctor (i)"],
+        "answer": "SpringWater (izumi)"
+    }
+]

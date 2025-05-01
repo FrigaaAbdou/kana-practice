@@ -1,0 +1,502 @@
+[
+    {
+        "question": "署",
+        "options": ["Build (chiku)", "Hide (kakusu)", "Signature (sho)", "Demon (ma)"],
+        "answer": "Signature (sho)"
+    },
+    {
+        "question": "含",
+        "options": ["Include (fukumu)", "Pearl (shu)", "Magazine (shi)", "KnIT (amu)"],
+        "answer": "Include (fukumu)"
+    },
+    {
+        "question": "捕",
+        "options": ["Cup (sakazuki)", "Catch (toraeru)", "Sink (botsu)", "Investigate (shiraberu)"],
+        "answer": "Catch (toraeru)"
+    },
+    {
+        "question": "援",
+        "options": ["Aid (en)", "Rent (chin)", "Edge (hashi2)", "Hungry (ueru)"],
+        "answer": "Aid (en)"
+    },
+    {
+        "question": "換",
+        "options": ["Explode (baku2)", "Exchange (kaeru)", "Calm (odayaka)", "Evidence (shou)"],
+        "answer": "Exchange (kaeru)"
+    },
+    {
+        "question": "提",
+        "options": ["Present (tei)", "Distance (kyo)", "Stick (bou2)", "Box (hako)"],
+        "answer": "Present (tei)"
+    },
+    {
+        "question": "損",
+        "options": ["Loss (son)", "Tremendous (jin)", "Investigate (shiraberu)", "Coarse (arai)"],
+        "answer": "Loss (son)"
+    },
+    {
+        "question": "証",
+        "options": ["Evidence (shou)", "Cheerful (rou)", "Multiply (fuyasu)", "Tie (shimeru)"],
+        "answer": "Evidence (shou)"
+    },
+    {
+        "question": "誌",
+        "options": ["Magazine (shi)", "Leather (kawa)", "Epidemic (eki)", "Rent (chin)"],
+        "answer": "Magazine (shi)"
+    },
+    {
+        "question": "認",
+        "options": ["Recognize (mitomeru)", "Aid (en)", "Apologize (ayamaru)", "Imitate (gi)"],
+        "answer": "Recognize (mitomeru)"
+    },
+    {
+        "question": "調",
+        "options": ["Investigate (shiraberu)", "Amount (gaku)", "Sugar (tou)", "Neighbor (tonari)"],
+        "answer": "Investigate (shiraberu)"
+    },
+    {
+        "question": "諾",
+        "options": ["Consent (daku)", "Fog (kiri)", "Edge (hashi2)", "Fascination (mi)"],
+        "answer": "Consent (daku)"
+    },
+    {
+        "question": "謝",
+        "options": ["Apologize (ayamaru)", "Stick (bou2)", "Distance (kyo)", "Face (nozomu)"],
+        "answer": "Apologize (ayamaru)"
+    },
+    {
+        "question": "講",
+        "options": ["Lecture (kou)", "Tax (zei)", "Hide (kakusu)", "Mature (jukusuru)"],
+        "answer": "Lecture (kou)"
+    },
+    {
+        "question": "貿",
+        "options": ["Trade (bou)", "Investigate (shiraberu)", "Fog (kiri)", "Hang (kakeru)"],
+        "answer": "Trade (bou)"
+    },
+    {
+        "question": "貴",
+        "options": ["Precious (ki)", "Sink (botsu)", "Replace (kaeru2)", "Stagnate (tai)"],
+        "answer": "Precious (ki)"
+    },
+    {
+        "question": "賃",
+        "options": ["Rent (chin)", "Fascination (mi)", "Cottage (sha)", "Tie (shimeru)"],
+        "answer": "Rent (chin)"
+    },
+    {
+        "question": "距",
+        "options": ["Distance (kyo)", "Investigate (shiraberu)", "Sugar (tou)", "Search (sagasu)"],
+        "answer": "Distance (kyo)"
+    },
+    {
+        "question": "税",
+        "options": ["Tax (zei)", "Rent (chin)", "Sink (botsu)", "Cheerful (rou)"],
+        "answer": "Tax (zei)"
+    },
+    {
+        "question": "稼",
+        "options": ["Earn (kasegu)", "Edge (hashi2)", "Hide (kakusu)", "Hungry (ueru)"],
+        "answer": "Earn (kasegu)"
+    },
+    {
+        "question": "築",
+        "options": ["Build (chiku)", "Investigate (shiraberu)", "Consent (daku)", "Mirror (kagami)"],
+        "answer": "Build (chiku)"
+    },
+    {
+        "question": "績",
+        "options": ["Achievements (seki)", "Exchange (kaeru)", "Fog (kiri)", "General (han)"],
+        "answer": "Achievements (seki)"
+    },
+    {
+        "question": "編",
+        "options": ["Knit (amu)", "Catch (toraeru)", "Quake (furu)", "Protect (go)"],
+        "answer": "Knit (amu)"
+    },
+    {
+        "question": "締",
+        "options": ["Tie (shimeru)", "Sink (botsu)", "Edge (hashi2)", "Column (ran)"],
+        "answer": "Tie (shimeru)"
+    },
+    {
+        "question": "臨",
+        "options": ["Face (nozomu)", "Mature (jukusuru)", "Rare (mezurashii)", "Gift (okuru2)"],
+        "answer": "Face (nozomu)"
+    },
+    {
+        "question": "興",
+        "options": ["Interest (kyou)", "Rent (chin)", "Magazine (shi)", "Edge (hashi2)"],
+        "answer": "Interest (kyou)"
+    },
+    {
+        "question": "舎",
+        "options": ["Cottage (sha)", "Investigate (shiraberu)", "Apologize (ayamaru)", "Sink (botsu)"],
+        "answer": "Cottage (sha)"
+    },
+    {
+        "question": "般",
+        "options": ["General (han)", "Investigate (shiraberu)", "Charcoal (sumi)", "Hide (kakusu)"],
+        "answer": "General (han)"
+    },
+    {
+        "question": "護",
+        "options": ["Protect (go)", "Epidemic (eki)", "Tie (shimeru)", "Box (hako)"],
+        "answer": "Protect (go)"
+    },
+    {
+        "question": "障",
+        "options": ["Hinder (shou2)", "Sink (botsu)", "Exchange (kaeru)", "Knit (amu)"],
+        "answer": "Hinder (shou2)"
+    },
+    {
+        "question": "隣",
+        "options": ["Neighbor (tonari)", "Mirror (kagami)", "Distance (kyo)", "Fascination (mi)"],
+        "answer": "Neighbor (tonari)"
+    },
+    {
+        "question": "難",
+        "options": ["Difficult (muzukashii)", "Fog (kiri)", "Edge (hashi2)", "Detect (—)"],
+        "answer": "Difficult (muzukashii)"
+    },
+    {
+        "question": "革",
+        "options": ["Leather (kawa)", "Aid (en)", "Sink (botsu)", "Fog (kiri)"],
+        "answer": "Leather (kawa)"
+    },
+    {
+        "question": "靴",
+        "options": ["Shoes (kutsu)", "Cave (hora)", "Signature (sho)", "Consent (daku)"],
+        "answer": "Shoes (kutsu)"
+    },
+    {
+        "question": "項",
+        "options": ["Paragraph (kou2)", "Exchange (kaeru)", "Cheerful (rou)", "Detect (—)"],
+        "answer": "Paragraph (kou2)"
+    },
+    {
+        "question": "順",
+        "options": ["Order (jun)", "Sink (botsu)", "Multiply (fuyasu)", "Knit (amu)"],
+        "answer": "Order (jun)"
+    },
+    {
+        "question": "額",
+        "options": ["Amount (gaku)", "Tie (shimeru)", "Box (hako)", "Sink (botsu)"],
+        "answer": "Amount (gaku)"
+    },
+    {
+        "question": "飾",
+        "options": ["Decorate (kazaru)", "Exchange (kaeru)", "Investigate (shiraberu)", "Edge (hashi2)"],
+        "answer": "Decorate (kazaru)"
+    },
+    {
+        "question": "飢",
+        "options": ["Hungry (ueru)", "Mature (jukusuru)", "Fog (kiri)", "Investigate (shiraberu)"],
+        "answer": "Hungry (ueru)"
+    },
+    {
+        "question": "飛",
+        "options": ["Fly (tobu)", "Charcoal (sumi)", "Multiply (fuyasu)", "Epidemic (eki)"],
+        "answer": "Fly (tobu)"
+    },
+    {
+        "question": "験",
+        "options": ["Test (ken)", "Box (hako)", "Hide (kakusu)", "Investigate (shiraberu)"],
+        "answer": "Test (ken)"
+    },
+    {
+        "question": "魅",
+        "options": ["Fascination (mi)", "Sink (botsu)", "Investigate (shiraberu)", "Fog (kiri)"],
+        "answer": "Fascination (mi)"
+    },
+    {
+        "question": "魔",
+        "options": ["Demon (ma)", "Edge (hashi2)", "Epidemic (eki)", "Box (hako)"],
+        "answer": "Demon (ma)"
+    },
+    {
+        "question": "鏡",
+        "options": ["Mirror (kagami)", "Magazine (shi)", "Investigate (shiraberu)", "Sink (botsu)"],
+        "answer": "Mirror (kagami)"
+    },
+    {
+        "question": "震",
+        "options": ["Quake (furu)", "Investigate (shiraberu)", "Box (hako)", "Exchange (kaeru)"],
+        "answer": "Quake (furu)"
+    },
+    {
+        "question": "霧",
+        "options": ["Fog (kiri)", "Aid (en)", "Hide (kakusu)", "Tie (shimeru)"],
+        "answer": "Fog (kiri)"
+    },
+    {
+        "question": "露",
+        "options": ["Dew (tsuyu)", "Cheerful (rou)", "Sink (botsu)", "Tie (shimeru)"],
+        "answer": "Dew (tsuyu)"
+    },
+    {
+        "question": "激",
+        "options": ["Violent (hageshii)", "Investigate (shiraberu)", "Tie (shimeru)", "Hungry (ueru)"],
+        "answer": "Violent (hageshii)"
+    },
+    {
+        "question": "穏",
+        "options": ["Calm (odayaka)", "Sink (botsu)", "Investigate (shiraberu)", "Edge (hashi2)"],
+        "answer": "Calm (odayaka)"
+    },
+    {
+        "question": "端",
+        "options": ["Edge (hashi2)", "Signature (sho)", "Aid (en)", "Tie (shimeru)"],
+        "answer": "Edge (hashi2)"
+    },
+    {
+        "question": "探",
+        "options": ["Search (sagasu)", "Fog (kiri)", "Investigate (shiraberu)", "Apologize (ayamaru)"],
+        "answer": "Search (sagasu)"
+    },
+    {
+        "question": "隠",
+        "options": ["Hide (kakusu)", "Tie (shimeru)", "Sink (botsu)", "Stick (bou2)"],
+        "answer": "Hide (kakusu)"
+    },
+    {
+        "question": "握",
+        "options": ["Grasp (nigiru)", "Magazine (shi)", "Tie (shimeru)", "Investigate (shiraberu)"],
+        "answer": "Grasp (nigiru)"
+    },
+    {
+        "question": "掛",
+        "options": ["Hang (kakeru)", "Rent (chin)", "Sink (botsu)", "Cheerful (rou)"],
+        "answer": "Hang (kakeru)"
+    },
+    {
+        "question": "撮",
+        "options": ["Photograph (toru)", "Trade (bou)", "Investigate (shiraberu)", "Tie (shimeru)"],
+        "answer": "Photograph (toru)"
+    },
+    {
+        "question": "擬",
+        "options": ["Imitate (gi)", "Edge (hashi2)", "Investigate (shiraberu)", "Sink (botsu)"],
+        "answer": "Imitate (gi)"
+    },
+    {
+        "question": "斎",
+        "options": ["Purify (sai2)", "Aid (en)", "Signature (sho)", "Fascination (mi)"],
+        "answer": "Purify (sai2)"
+    },
+    {
+        "question": "替",
+        "options": ["Replace (kaeru2)", "Apologize (ayamaru)", "Sink (botsu)", "Investigate (shiraberu)"],
+        "answer": "Replace (kaeru2)"
+    },
+    {
+        "question": "暮",
+        "options": ["Live (kure)", "Rent (chin)", "Edge (hashi2)", "Fog (kiri)"],
+        "answer": "Live (kure)"
+    },
+    {
+        "question": "朗",
+        "options": ["Cheerful (rou)", "Sink (botsu)", "Investigate (shiraberu)", "Signature (sho)"],
+        "answer": "Cheerful (rou)"
+    },
+    {
+        "question": "熟",
+        "options": ["Mature (jukusuru)", "Hide (kakusu)", "Investigate (shiraberu)", "Trade (bou)"],
+        "answer": "Mature (jukusuru)"
+    },
+    {
+        "question": "朽",
+        "options": ["Decay (kuchiru)", "Explode (baku2)", "Fascination (mi)", "Tie (shimeru)"],
+        "answer": "Decay (kuchiru)"
+    },
+    {
+        "question": "杯",
+        "options": ["Cup (sakazuki)", "Sink (botsu)", "Mature (jukusuru)", "Investigate (shiraberu)"],
+        "answer": "Cup (sakazuki)"
+    },
+    {
+        "question": "棒",
+        "options": ["Stick (bou2)", "Investigate (shiraberu)", "Sink (botsu)", "Magazine (shi)"],
+        "answer": "Stick (bou2)"
+    },
+    {
+        "question": "棟",
+        "options": ["Ridge (mune)", "Signature (sho)", "Tie (shimeru)", "Dew (tsuyu)"],
+        "answer": "Ridge (mune)"
+    },
+    {
+        "question": "欄",
+        "options": ["Column (ran)", "Investigate (shiraberu)", "Sink (botsu)", "Edge (hashi2)"],
+        "answer": "Column (ran)"
+    },
+    {
+        "question": "欠",
+        "options": ["Lack (ketsu)", "Magazine (shi)", "Investigate (shiraberu)", "Exchange (kaeru)"],
+        "answer": "Lack (ketsu)"
+    },
+    {
+        "question": "欧",
+        "options": ["Europe (ou)", "Fog (kiri)", "Tie (shimeru)", "Apologize (ayamaru)"],
+        "answer": "Europe (ou)"
+    },
+    {
+        "question": "殖",
+        "options": ["Multiply (fuyasu)", "Hide (kakusu)", "Sink (botsu)", "Magazine (shi)"],
+        "answer": "Multiply (fuyasu)"
+    },
+    {
+        "question": "殻",
+        "options": ["Shell (kara)", "Tie (shimeru)", "Investigate (shiraberu)", "Sink (botsu)"],
+        "answer": "Shell (kara)"
+    },
+    {
+        "question": "没",
+        "options": ["Sink (botsu)", "Charcoal (sumi)", "Edge (hashi2)", "Investigate (shiraberu)"],
+        "answer": "Sink (botsu)"
+    },
+    {
+        "question": "洞",
+        "options": ["Cave (hora)", "Magazine (shi)", "Investigate (shiraberu)", "Tie (shimeru)"],
+        "answer": "Cave (hora)"
+    },
+    {
+        "question": "浮",
+        "options": ["Float (ukabu)", "Sink (botsu)", "Investigate (shiraberu)", "Tie (shimeru)"],
+        "answer": "Float (ukabu)"
+    },
+    {
+        "question": "渡",
+        "options": ["Cross (wataru)", "Tie (shimeru)", "Aid (en)", "Investigate (shiraberu)"],
+        "answer": "Cross (wataru)"
+    },
+    {
+        "question": "滞",
+        "options": ["Stagnate (tai)", "Mature (jukusuru)", "Cheerful (rou)", "Aid (en)"],
+        "answer": "Stagnate (tai)"
+    },
+    {
+        "question": "漠",
+        "options": ["Vague (baku)", "Edge (hashi2)", "Sink (botsu)", "Investigate (shiraberu)"],
+        "answer": "Vague (baku)"
+    },
+    {
+        "question": "演",
+        "options": ["Perform (en2)", "Investigate (shiraberu)", "Tie (shimeru)", "Fog (kiri)"],
+        "answer": "Perform (en2)"
+    },
+    {
+        "question": "潜",
+        "options": ["Dive (moguru)", "Sink (botsu)", "Aid (en)", "Investigate (shiraberu)"],
+        "answer": "Dive (moguru)"
+    },
+    {
+        "question": "災",
+        "options": ["Disaster (sai3)", "Tie (shimeru)", "Magazine (shi)", "Investigate (shiraberu)"],
+        "answer": "Disaster (sai3)"
+    },
+    {
+        "question": "炭",
+        "options": ["Charcoal (sumi)", "Aid (en)", "Sink (botsu)", "Investigate (shiraberu)"],
+        "answer": "Charcoal (sumi)"
+    },
+    {
+        "question": "焦",
+        "options": ["Scorch (kogeru)", "Investigate (shiraberu)", "Edge (hashi2)", "Sink (botsu)"],
+        "answer": "Scorch (kogeru)"
+    },
+    {
+        "question": "爆",
+        "options": ["Explode (baku2)", "Magazine (shi)", "Tie (shimeru)", "Fog (kiri)"],
+        "answer": "Explode (baku2)"
+    },
+    {
+        "question": "片",
+        "options": ["Fragment (kata)", "Sink (botsu)", "Investigate (shiraberu)", "Tie (shimeru)"],
+        "answer": "Fragment (kata)"
+    },
+    {
+        "question": "珍",
+        "options": ["Rare (mezurashii)", "Fog (kiri)", "Edge (hashi2)", "Investigate (shiraberu)"],
+        "answer": "Rare (mezurashii)"
+    },
+    {
+        "question": "珠",
+        "options": ["Pearl (shu)", "Sink (botsu)", "Investigate (shiraberu)", "Tie (shimeru)"],
+        "answer": "Pearl (shu)"
+    },
+    {
+        "question": "甘",
+        "options": ["Sweet (amai)", "Investigate (shiraberu)", "Sink (botsu)", "Edge (hashi2)"],
+        "answer": "Sweet (amai)"
+    },
+    {
+        "question": "甚",
+        "options": ["Tremendous (jin)", "Tie (shimeru)", "Aid (en)", "Investigate (shiraberu)"],
+        "answer": "Tremendous (jin)"
+    },
+    {
+        "question": "疎",
+        "options": ["Neglect (so)", "Magazine (shi)", "Edge (hashi2)", "Sink (botsu)"],
+        "answer": "Neglect (so)"
+    },
+    {
+        "question": "疫",
+        "options": ["Epidemic (eki)", "Tie (shimeru)", "Sink (botsu)", "Investigate (shiraberu)"],
+        "answer": "Epidemic (eki)"
+    },
+    {
+        "question": "盗",
+        "options": ["Steal (nusumu)", "Investigate (shiraberu)", "Demon (ma)", "Sink (botsu)"],
+        "answer": "Steal (nusumu)"
+    },
+    {
+        "question": "看",
+        "options": ["Watch (kan)", "Tie (shimeru)", "Aid (en)", "Investigate (shiraberu)"],
+        "answer": "Watch (kan)"
+    },
+    {
+        "question": "矯",
+        "options": ["Rectify (kyou2)", "Sink (botsu)", "Edge (hashi2)", "Investigate (shiraberu)"],
+        "answer": "Rectify (kyou2)"
+    },
+    {
+        "question": "稚",
+        "options": ["Immature (chi)", "Tie (shimeru)", "Aid (en)", "Investigate (shiraberu)"],
+        "answer": "Immature (chi)"
+    },
+    {
+        "question": "箱",
+        "options": ["Box (hako)", "Sink (botsu)", "Investigate (shiraberu)", "Edge (hashi2)"],
+        "answer": "Box (hako)"
+    },
+    {
+        "question": "粗",
+        "options": ["Coarse (arai)", "Magazine (shi)", "Edge (hashi2)", "Tie (shimeru)"],
+        "answer": "Coarse (arai)"
+    },
+    {
+        "question": "粘",
+        "options": ["Sticky (nebaru)", "Hide (kakusu)", "Sink (botsu)", "Investigate (shiraberu)"],
+        "answer": "Sticky (nebaru)"
+    },
+    {
+        "question": "糖",
+        "options": ["Sugar (tou)", "Aid (en)", "Sink (botsu)", "Magazine (shi)"],
+        "answer": "Sugar (tou)"
+    },
+    {
+        "question": "繊",
+        "options": ["Fiber (sen)", "Investigate (shiraberu)", "Edge (hashi2)", "Sink (botsu)"],
+        "answer": "Fiber (sen)"
+    },
+    {
+        "question": "譜",
+        "options": ["Score (fu)", "Apologize (ayamaru)", "Tie (shimeru)", "Investigate (shiraberu)"],
+        "answer": "Score (fu)"
+    },
+    {
+        "question": "隅",
+        "options": ["Corner (sumi2)", "Sink (botsu)", "Magazine (shi)", "Investigate (shiraberu)"],
+        "answer": "Corner (sumi2)"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "question": "亀",
+        "options": ["Brocade (nishiki)", "Sprout (moe)", "Turtle (kame)", "Maple (kaede)"],
+        "answer": "Turtle (kame)"
+    },
+    {
+        "question": "仙",
+        "options": ["Hermit (sen)", "Pancreas (sui)", "Firefly (hotaru)", "Umbrella (kasa)"],
+        "answer": "Hermit (sen)"
+    },
+    {
+        "question": "匠",
+        "options": ["Artisan (takumi)", "Kidney (jin)", "Frog (kaeru)", "Bee (hachi)"],
+        "answer": "Artisan (takumi)"
+    },
+    {
+        "question": "凰",
+        "options": ["Phoenix (ou)", "Mist (kasumi)", "Jaw (ago)", "FootOfMountain (fumoto)"],
+        "answer": "Phoenix (ou)"
+    },
+    {
+        "question": "慧",
+        "options": ["Wise (kei)", "Brocade (nishiki)", "Sprout (moe)", "Dust (chiri)"],
+        "answer": "Wise (kei)"
+    },
+    {
+        "question": "柿",
+        "options": ["Persimmon (kaki)", "Banana (shou)", "Marrow (zui)", "Hawk (taka)"],
+        "answer": "Persimmon (kaki)"
+    },
+    {
+        "question": "渚",
+        "options": ["Shore (nagisa)", "Rust (sabi)", "Hair (kami)", "Crab (kani)"],
+        "answer": "Shore (nagisa)"
+    },
+    {
+        "question": "嵐",
+        "options": ["Storm (arashi)", "Beard (hige)", "Azure (heki)", "Wine Lotus (hasu)"],
+        "answer": "Storm (arashi)"
+    },
+    {
+        "question": "峠",
+        "options": ["MountainPass (touge)", "Wolf (ookami)", "Throat (nodo)", "Cauldron (kama)"],
+        "answer": "MountainPass (touge)"
+    },
+    {
+        "question": "塊",
+        "options": ["Clump (katamari)", "Dignified (rin)", "Dragon (ryu)", "Yuzu (yuzu)"],
+        "answer": "Clump (katamari)"
+    },
+    {
+        "question": "轟",
+        "options": ["Roar (todoroki)", "Tuna (maguro)", "Beard (hige)", "Pupil (hitomi)"],
+        "answer": "Roar (todoroki)"
+    },
+    {
+        "question": "漱",
+        "options": ["Rinse (susugu)", "Boar (inoshishi)", "Bucket (oke)", "Hammer (tsuchi)"],
+        "answer": "Rinse (susugu)"
+    },
+    {
+        "question": "璧",
+        "options": ["Gem (hekki)", "Mist (kasumi)", "Pancreas (sui)", "Droplet (shizuku)"],
+        "answer": "Gem (hekki)"
+    },
+    {
+        "question": "塵",
+        "options": ["Dust (chiri)", "Sprout (moe)", "Monkey (saru)", "Trunk (dou)"],
+        "answer": "Dust (chiri)"
+    },
+    {
+        "question": "朧",
+        "options": ["Hazy (oboro)", "Brocade (nishiki)", "Weight (tsumu)", "Spoon (saji)"],
+        "answer": "Hazy (oboro)"
+    },
+    {
+        "question": "狼",
+        "options": ["Wolf (ookami)", "Butterfly (chou)", "Beard (hige)", "Jaw (ago)"],
+        "answer": "Wolf (ookami)"
+    },
+    {
+        "question": "猿",
+        "options": ["Monkey (saru)", "Lotus (hasu)", "Madder (akane)", "RiceCake (mochi)"],
+        "answer": "Monkey (saru)"
+    },
+    {
+        "question": "霞",
+        "options": ["Mist (kasumi)", "Firefly (hotaru)", "Rust (sabi)", "Jaw (ago)"],
+        "answer": "Mist (kasumi)"
+    },
+    {
+        "question": "凛",
+        "options": ["Dignified (rin)", "Pancreas (sui)", "Kick (keru)", "Gem (hekki)"],
+        "answer": "Dignified (rin)"
+    },
+    {
+        "question": "碧",
+        "options": ["Azure (heki)", "Crane (tsuru)", "Banana (shou)", "Whale (kujira)"],
+        "answer": "Azure (heki)"
+    },
+    {
+        "question": "錦",
+        "options": ["Brocade (nishiki)", "Dust (chiri)", "Monkey (saru)", "Spleen (hi)"],
+        "answer": "Brocade (nishiki)"
+    },
+    {
+        "question": "鷹",
+        "options": ["Hawk (taka)", "Pancreas (sui)", "Hammer (tsuchi)", "Marrow (zui)"],
+        "answer": "Hawk (taka)"
+    },
+    {
+        "question": "鶴",
+        "options": ["Crane (tsuru)", "Rudder (kaji)", "Snake (hebi)", "Dust (chiri)"],
+        "answer": "Crane (tsuru)"
+    },
+    {
+        "question": "鯨",
+        "options": ["Whale (kujira)", "Saw (nokogiri)", "Droplet (shizuku)", "Brocade (nishiki)"],
+        "answer": "Whale (kujira)"
+    },
+    {
+        "question": "鮪",
+        "options": ["Tuna (maguro)", "Beard (hige)", "Hammer (tsuchi)", "Wrinkle (shiwa)"],
+        "answer": "Tuna (maguro)"
+    },
+    {
+        "question": "雫",
+        "options": ["Droplet (shizuku)", "Crab (kani)", "FootOfMountain (fumoto)", "Gem (hekki)"],
+        "answer": "Droplet (shizuku)"
+    },
+    {
+        "question": "蛍",
+        "options": ["Firefly (hotaru)", "Boar (inoshishi)", "Bucket (oke)", "Kick (keru)"],
+        "answer": "Firefly (hotaru)"
+    },
+    {
+        "question": "梟",
+        "options": ["Owl (fukuro)", "Maple (kaede)", "Brocade (nishiki)", "Dignified (rin)"],
+        "answer": "Owl (fukuro)"
+    },
+    {
+        "question": "麟",
+        "options": ["Qilin (rin)", "Wolf (ookami)", "Snake (hebi)", "Lotus (hasu)"],
+        "answer": "Qilin (rin)"
+    },
+    {
+        "question": "麓",
+        "options": ["FootOfMountain (fumoto)", "Ox Jaw (ago)", "Persimmon (kaki)", "Banana (shou)"],
+        "answer": "FootOfMountain (fumoto)"
+    },
+    {
+        "question": "柚",
+        "options": ["Yuzu (yuzu)", "Harp (koto)", "Rust (sabi)", "Buckwheat (kyo)"],
+        "answer": "Yuzu (yuzu)"
+    },
+    {
+        "question": "檀",
+        "options": ["Sandalwood (dan)", "Clump (katamari)", "Monkey (saru)", "Hazy (oboro)"],
+        "answer": "Sandalwood (dan)"
+    },
+    {
+        "question": "璽",
+        "options": ["ImperialSeal (ji)", "Sprout (moe)", "Firefly (hotaru)", "Butterfly (chou)"],
+        "answer": "ImperialSeal (ji)"
+    },
+    {
+        "question": "鬱",
+        "options": ["Melancholy (utsu)", "Hammer (tsuchi)", "Bucket (oke)", "Lips (kuchibiru)"],
+        "answer": "Melancholy (utsu)"
+    },
+    {
+        "question": "竜",
+        "options": ["Dragon (ryu)", "Azure (heki)", "Sprout (moe)", "Pot (nabe)"],
+        "answer": "Dragon (ryu)"
+    },
+    {
+        "question": "麺",
+        "options": ["Noodles (men)", "Marrow (zui)", "Mist (kasumi)", "Dignified (rin)"],
+        "answer": "Noodles (men)"
+    },
+    {
+        "question": "餅",
+        "options": ["RiceCake (mochi)", "Jaw (ago)", "Spoon (saji)", "Firefly (hotaru)"],
+        "answer": "RiceCake (mochi)"
+    },
+    {
+        "question": "鍋",
+        "options": ["Pot (nabe)", "Monkey (saru)", "Brocade (nishiki)", "Kick (keru)"],
+        "answer": "Pot (nabe)"
+    },
+    {
+        "question": "錘",
+        "options": ["Weight (tsumu)", "Hammer (tsuchi)", "Harp (koto)", "Bee (hachi)"],
+        "answer": "Weight (tsumu)"
+    },
+    {
+        "question": "鍵",
+        "options": ["Key (kagi)", "Snake (hebi)", "Beard (hige)", "Qilin (rin)"],
+        "answer": "Key (kagi)"
+    },
+    {
+        "question": "頁",
+        "options": ["Page (ketsu)", "Wolf (ookami)", "Whale (kujira)", "Crab (kani)"],
+        "answer": "Page (ketsu)"
+    },
+    {
+        "question": "錆",
+        "options": ["Rust (sabi)", "Brocade (nishiki)", "Frog (kaeru)", "Monkey (saru)"],
+        "answer": "Rust (sabi)"
+    },
+    {
+        "question": "楓",
+        "options": ["Maple (kaede)", "Spoon (saji)", "Wolf (ookami)", "Pupil (hitomi)"],
+        "answer": "Maple (kaede)"
+    },
+    {
+        "question": "桜",
+        "options": ["CherryBlossom (sakura)", "Droplet (shizuku)", "Storm (arashi)", "Whale (kujira)"],
+        "answer": "CherryBlossom (sakura)"
+    },
+    {
+        "question": "菊",
+        "options": ["Chrysanthemum (kiku)", "Bucket (oke)", "Key (kagi)", "Beard (hige)"],
+        "answer": "Chrysanthemum (kiku)"
+    },
+    {
+        "question": "葡",
+        "options": ["Grape (bu)", "Rust (sabi)", "Persimmon (kaki)", "Snake (hebi)"],
+        "answer": "Grape (bu)"
+    },
+    {
+        "question": "蓮",
+        "options": ["Lotus (hasu)", "Madder (akane)", "ImperialSeal (ji)", "Butterfly (chou)"],
+        "answer": "Lotus (hasu)"
+    },
+    {
+        "question": "茜",
+        "options": ["Madder (akane)", "Melancholy (utsu)", "Jaw (ago)", "Monkey (saru)"],
+        "answer": "Madder (akane)"
+    },
+    {
+        "question": "葵",
+        "options": ["Hollyhock (aoi)", "Snake (hebi)", "Brocade (nishiki)", "Droplet (shizuku)"],
+        "answer": "Hollyhock (aoi)"
+    },
+    {
+        "question": "蕉",
+        "options": ["Banana (shou)", "Beard (hige)", "Hazy (oboro)", "Pot (nabe)"],
+        "answer": "Banana (shou)"
+    },
+    {
+        "question": "蕎",
+        "options": ["Buckwheat (kyo)", "Wolf (ookami)", "Sprout (moe)", "Butterfly (chou)"],
+        "answer": "Buckwheat (kyo)"
+    },
+    {
+        "question": "萌",
+        "options": ["Sprout (moe)", "Hammer (tsuchi)", "Brocade (nishiki)", "Key (kagi)"],
+        "answer": "Sprout (moe)"
+    },
+    {
+        "question": "覆",
+        "options": ["Cover (kasa)", "Yuzu (yuzu)", "Bucket (oke)", "Snake (hebi)"],
+        "answer": "Cover (kasa)"
+    },
+    {
+        "question": "顎",
+        "options": ["Jaw (ago)", "Persimmon (kaki)", "Mist (kasumi)", "FootOfMountain (fumoto)"],
+        "answer": "Jaw (ago)"
+    },
+    {
+        "question": "髭",
+        "options": ["Beard (hige)", "Grape (bu)", "Marrow (zui)", "Whale (kujira)"],
+        "answer": "Beard (hige)"
+    },
+    {
+        "question": "髪",
+        "options": ["Hair (kami)", "Wolf (ookami)", "Pancreas (sui)", "Sprout (moe)"],
+        "answer": "Hair (kami)"
+    },
+    {
+        "question": "瞳",
+        "options": ["Pupil (hitomi)", "Rust (sabi)", "Droplet (shizuku)", "Rudder (kaji)"],
+        "answer": "Pupil (hitomi)"
+    },
+    {
+        "question": "眉",
+        "options": ["Eyebrow (mayu)", "Bucket (oke)", "Dragon (ryu)", "Mist (kasumi)"],
+        "answer": "Eyebrow (mayu)"
+    },
+    {
+        "question": "唇",
+        "options": ["Lips (kuchibiru)", "Banana (shou)", "Monkey (saru)", "Pancreas (sui)"],
+        "answer": "Lips (kuchibiru)"
+    },
+    {
+        "question": "喉",
+        "options": ["Throat (nodo)", "Droplet (shizuku)", "Firefly (hotaru)", "Beard (hige)"],
+        "answer": "Throat (nodo)"
+    },
+    {
+        "question": "腸",
+        "options": ["Intestine (chou)", "Weight (tsumu)", "Hammer (tsuchi)", "Hazy (oboro)"],
+        "answer": "Intestine (chou)"
+    },
+    {
+        "question": "腎",
+        "options": ["Kidney (jin)", "Wolf (ookami)", "Qilin (rin)", "Whale (kujira)"],
+        "answer": "Kidney (jin)"
+    },
+    {
+        "question": "脾",
+        "options": ["Spleen (hi)", "Throat (nodo)", "Snake (hebi)", "Buckwheat (kyo)"],
+        "answer": "Spleen (hi)"
+    },
+    {
+        "question": "膵",
+        "options": ["Pancreas (sui)", "Firefly (hotaru)", "Dragon (ryu)", "Rust (sabi)"],
+        "answer": "Pancreas (sui)"
+    },
+    {
+        "question": "胴",
+        "options": ["Trunk (dou)", "Hammer (tsuchi)", "Key (kagi)", "Boar (inoshishi)"],
+        "answer": "Trunk (dou)"
+    },
+    {
+        "question": "髄",
+        "options": ["Marrow (zui)", "Banana (shou)", "Snake (hebi)", "Boar (inoshishi)"],
+        "answer": "Marrow (zui)"
+    },
+    {
+        "question": "癌",
+        "options": ["Cancer (gan)", "Droplet (shizuku)", "Monkey (saru)", "Gem (hekki)"],
+        "answer": "Cancer (gan)"
+    },
+    {
+        "question": "皺",
+        "options": ["Wrinkle (shiwa)", "Pancreas (sui)", "Brocade (nishiki)", "Wolf (ookami)"],
+        "answer": "Wrinkle (shiwa)"
+    },
+    {
+        "question": "鼠",
+        "options": ["Rat (nezumi)", "Snake (hebi)", "Hammer (tsuchi)", "Bee (hachi)"],
+        "answer": "Rat (nezumi)"
+    },
+    {
+        "question": "雁",
+        "options": ["WildGoose (gan)", "Butterfly (chou)", "Bucket (oke)", "Droplet (shizuku)"],
+        "answer": "WildGoose (gan)"
+    },
+    {
+        "question": "鷲",
+        "options": ["Eagle (washi)", "Pancreas (sui)", "Rust (sabi)", "Lotus (hasu)"],
+        "answer": "Eagle (washi)"
+    },
+    {
+        "question": "鹿",
+        "options": ["Deer (shika)", "Key (kagi)", "Dragon (ryu)", "Boar (inoshishi)"],
+        "answer": "Deer (shika)"
+    },
+    {
+        "question": "猪",
+        "options": ["Boar (inoshishi)", "Pancreas (sui)", "Monkey (saru)", "Weight (tsumu)"],
+        "answer": "Boar (inoshishi)"
+    },
+    {
+        "question": "蝶",
+        "options": ["Butterfly (chou)", "Frog (kaeru)", "Sprout (moe)", "Dragon (ryu)"],
+        "answer": "Butterfly (chou)"
+    },
+    {
+        "question": "蜂",
+        "options": ["Bee (hachi)", "Weight (tsumu)", "Jaw (ago)", "Rust (sabi)"],
+        "answer": "Bee (hachi)"
+    },
+    {
+        "question": "蟹",
+        "options": ["Crab (kani)", "Bucket (oke)", "Snake (hebi)", "Hammer (tsuchi)"],
+        "answer": "Crab (kani)"
+    },
+    {
+        "question": "蛙",
+        "options": ["Frog (kaeru)", "Pancreas (sui)", "Harp (koto)", "RiceCake (mochi)"],
+        "answer": "Frog (kaeru)"
+    },
+    {
+        "question": "蛇",
+        "options": ["Snake (hebi)", "Weight (tsumu)", "Droplet (shizuku)", "Tuna (maguro)"],
+        "answer": "Snake (hebi)"
+    },
+    {
+        "question": "鮫",
+        "options": ["Shark (same)", "Key (kagi)", "Marrow (zui)", "Hazy (oboro)"],
+        "answer": "Shark (same)"
+    },
+    {
+        "question": "蛸",
+        "options": ["Octopus (tako)", "Droplet (shizuku)", "Bee (hachi)", "Sprout (moe)"],
+        "answer": "Octopus (tako)"
+    },
+    {
+        "question": "烏",
+        "options": ["Crow (karasu)", "Firefly (hotaru)", "Rust (sabi)", "Dragon (ryu)"],
+        "answer": "Crow (karasu)"
+    },
+    {
+        "question": "梶",
+        "options": ["Rudder (kaji)", "Yuzu (yuzu)", "Monkey (saru)", "Snake (hebi)"],
+        "answer": "Rudder (kaji)"
+    },
+    {
+        "question": "桶",
+        "options": ["Bucket (oke)", "Weight (tsumu)", "Pancreas (sui)", "Droplet (shizuku)"],
+        "answer": "Bucket (oke)"
+    },
+    {
+        "question": "匙",
+        "options": ["Spoon (saji)", "Lotus (hasu)", "Crab (kani)", "Dragon (ryu)"],
+        "answer": "Spoon (saji)"
+    },
+    {
+        "question": "斧",
+        "options": ["Axe (ono)", "Sprout (moe)", "Buckwheat (kyo)", "Boar (inoshishi)"],
+        "answer": "Axe (ono)"
+    },
+    {
+        "question": "鎚",
+        "options": ["Hammer (tsuchi)", "Bee (hachi)", "Pancreas (sui)", "Rust (sabi)"],
+        "answer": "Hammer (tsuchi)"
+    },
+    {
+        "question": "琴",
+        "options": ["Harp (koto)", "Qilin (rin)", "Wolf (ookami)", "Bucket (oke)"],
+        "answer": "Harp (koto)"
+    },
+    {
+        "question": "笛",
+        "options": ["Flute (fue)", "Droplet (shizuku)", "Mist (kasumi)", "Rust (sabi)"],
+        "answer": "Flute (fue)"
+    },
+    {
+        "question": "箔",
+        "options": ["Foil (haku)", "Dragon (ryu)", "Bucket (oke)", "Sprout (moe)"],
+        "answer": "Foil (haku)"
+    },
+    {
+        "question": "箸",
+        "options": ["Chopsticks (hashi)", "Pancreas (sui)", "FootOfMountain (fumoto)", "Bee (hachi)"],
+        "answer": "Chopsticks (hashi)"
+    },
+    {
+        "question": "鋸",
+        "options": ["Saw (nokogiri)", "Weight (tsumu)", "Rust (sabi)", "Droplet (shizuku)"],
+        "answer": "Saw (nokogiri)"
+    },
+    {
+        "question": "釜",
+        "options": ["Cauldron (kama)", "Sprout (moe)", "Brocade (nishiki)", "Hammer (tsuchi)"],
+        "answer": "Cauldron (kama)"
+    },
+    {
+        "question": "俵",
+        "options": ["RiceBag (tawara)", "Banana (shou)", "Crane (tsuru)", "Bucket (oke)"],
+        "answer": "RiceBag (tawara)"
+    },
+    {
+        "question": "傘",
+        "options": ["Umbrella (kasa)", "Beard (hige)", "Snake (hebi)", "Mist (kasumi)"],
+        "answer": "Umbrella (kasa)"
+    },
+    {
+        "question": "凧",
+        "options": ["Kite (tako)", "Hammer (tsuchi)", "Pancreas (sui)", "Bee (hachi)"],
+        "answer": "Kite (tako)"
+    },
+    {
+        "question": "轡",
+        "options": ["Bridle (kutsuwa)", "Qilin (rin)", "Bucket (oke)", "Snake (hebi)"],
+        "answer": "Bridle (kutsuwa)"
+    },
+    {
+        "question": "賭",
+        "options": ["Gamble (kakeru)", "Whale (kujira)", "Sprout (moe)", "Rust (sabi)"],
+        "answer": "Gamble (kakeru)"
+    },
+    {
+        "question": "蹴",
+        "options": ["Kick (keru)", "Mist (kasumi)", "Bucket (oke)", "Rinse (susugu)"],
+        "answer": "Kick (keru)"
+    },
+    {
+        "question": "躍",
+        "options": ["Leap (odoru)", "Brocade (nishiki)", "Firefly (hotaru)", "Sprout (moe)"],
+        "answer": "Leap (odoru)"
+    },
+    {
+        "question": "軸",
+        "options": ["Axis (jiku)", "Rust (sabi)", "Pancreas (sui)", "Tuna (maguro)"],
+        "answer": "Axis (jiku)"
+    }
+]

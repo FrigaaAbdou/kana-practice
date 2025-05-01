@@ -1,0 +1,512 @@
+[
+    {
+        "question": "借",
+        "options": ["Clothes (fuku)", "Compensation (shou)", "Lend (kasu)", "Danger (abunai)"],
+        "answer": "Lend (kasu)"
+    },
+    {
+        "question": "貸",
+        "options": ["Borrow (kariru)", "Vice (fuku)", "Lend (kasu)", "Attitude (tai)"],
+        "answer": "Borrow (kariru)"
+    },
+    {
+        "question": "送",
+        "options": ["Send (okuru)", "Risk (ken)", "Plan (an)", "Hall (dou)"],
+        "answer": "Send (okuru)"
+    },
+    {
+        "question": "返",
+        "options": ["ReturnSomething (kaesu)", "World (yo)", "Power (chikara)", "End (sue)"],
+        "answer": "ReturnSomething (kaesu)"
+    },
+    {
+        "question": "洗",
+        "options": ["Wash (arau)", "Agriculture (nou)", "WarmClimate (atatakai2)", "Trillion (chou)"],
+        "answer": "Wash (arau)"
+    },
+    {
+        "question": "急",
+        "options": ["Hurry (isogu)", "Boundary (kai)", "Value (ka)", "Bundle (taba)"],
+        "answer": "Hurry (isogu)"
+    },
+    {
+        "question": "笑",
+        "options": ["Laugh (warau)", "Vice (fuku)", "Region (iki)", "Establish (setsu)"],
+        "answer": "Laugh (warau)"
+    },
+    {
+        "question": "泣",
+        "options": ["Row (retsu)", "Cry (naku)", "Suitable (teki)", "Risk (ken)"],
+        "answer": "Cry (naku)"
+    },
+    {
+        "question": "習",
+        "options": ["Learn (narau)", "Business (gyou)", "Record (roku)", "Fruit (ka)"],
+        "answer": "Learn (narau)"
+    },
+    {
+        "question": "研",
+        "options": ["Report (hou)", "Sharpen (ken)", "Sun (—)", "Transport (yu)"],
+        "answer": "Sharpen (ken)"
+    },
+    {
+        "question": "究",
+        "options": ["Research (kyuu)", "Fishing (ryo)", "Clerk (kakari)", "Gift (okuru2)"],
+        "answer": "Research (kyuu)"
+    },
+    {
+        "question": "祭",
+        "options": ["Risk (ken)", "Festival (matsuri)", "Resource (shi)", "WarmClimate (atatakai2)"],
+        "answer": "Festival (matsuri)"
+    },
+    {
+        "question": "品",
+        "options": ["Goods (shina)", "Help (tasukeru)", "Boundary (kai)", "Change (ka)"],
+        "answer": "Goods (shina)"
+    },
+    {
+        "question": "神",
+        "options": ["God (kami)", "Increase (fueru)", "Again (sai)", "Compensation (shou)"],
+        "answer": "God (kami)"
+    },
+    {
+        "question": "係",
+        "options": ["Bureau (kyoku)", "Clerk (kakari)", "Double (bai)", "Report (hou)"],
+        "answer": "Clerk (kakari)"
+    },
+    {
+        "question": "歯",
+        "options": ["Quality (shitsu)", "Tooth (ha)", "Criticism (hi)", "Select (taku)"],
+        "answer": "Tooth (ha)"
+    },
+    {
+        "question": "薬",
+        "options": ["Medicine (kusuri)", "Ballot (hyou)", "Fruit (ka)", "Fishing (ryo)"],
+        "answer": "Medicine (kusuri)"
+    },
+    {
+        "question": "病",
+        "options": ["Sickness (yamai)", "Record (roku)", "WarmClimate (atatakai2)", "Scenery (kei)"],
+        "answer": "Sickness (yamai)"
+    },
+    {
+        "question": "院",
+        "options": ["Institution (in)", "Prepare (sonaeru)", "Stretch (haru)", "Hall (dou)"],
+        "answer": "Institution (in)"
+    },
+    {
+        "question": "堂",
+        "options": ["Hall (dou)", "Decrease (heru)", "Fragrance (kaori)", "Again (sai)"],
+        "answer": "Hall (dou)"
+    },
+    {
+        "question": "世",
+        "options": ["World (yo)", "Clothes (fuku)", "Prepare (sonaeru)", "Harm (gai)"],
+        "answer": "World (yo)"
+    },
+    {
+        "question": "界",
+        "options": ["Boundary (kai)", "Edition (han)", "Suitability (teki)", "Graduate (sotsu)"],
+        "answer": "Boundary (kai)"
+    },
+    {
+        "question": "政",
+        "options": ["Politics (sei)", "Stubborn (gan)", "WarmClimate (atatakai2)", "Transport (yu)"],
+        "answer": "Politics (sei)"
+    },
+    {
+        "question": "治",
+        "options": ["Govern (osameru)", "Theory (ron)", "Sun (—)", "Trillion (chou)"],
+        "answer": "Govern (osameru)"
+    },
+    {
+        "question": "経",
+        "options": ["PassThrough (kei)", "Danger (abunai)", "Suitable (teki)", "Hall (dou)"],
+        "answer": "PassThrough (kei)"
+    },
+    {
+        "question": "済",
+        "options": ["Finish (sumeru)", "Gift (okuru2)", "Risk (ken)", "End (sue)"],
+        "answer": "Finish (sumeru)"
+    },
+    {
+        "question": "化",
+        "options": ["Change (ka)", "Compensation (shou)", "Stubborn (gan)", "Bureau (kyoku)"],
+        "answer": "Change (ka)"
+    },
+    {
+        "question": "比",
+        "options": ["Compare (kuraberu)", "Load (noseru)", "Plan (an)", "Boundary (kai)"],
+        "answer": "Compare (kuraberu)"
+    },
+    {
+        "question": "育",
+        "options": ["Raise (sodateru)", "Planned End (sue)", "Institution (in)", "Ballot (hyou)"],
+        "answer": "Raise (sodateru)"
+    },
+    {
+        "question": "農",
+        "options": ["Agriculture (nou)", "Again (sai)", "Risk (ken)", "Scenery (kei)"],
+        "answer": "Agriculture (nou)"
+    },
+    {
+        "question": "漁",
+        "options": ["Fishing (ryo)", "Condition (joukyou)", "Danger (abunai)", "ColdThing (tsumetai)"],
+        "answer": "Fishing (ryo)"
+    },
+    {
+        "question": "商",
+        "options": ["Commerce (shou)", "Fruit (ka)", "Stubborn (gan)", "Edition (han)"],
+        "answer": "Commerce (shou)"
+    },
+    {
+        "question": "業",
+        "options": ["Business (gyou)", "Plan (an)", "Decrease (heru)", "Prepare (sonaeru)"],
+        "answer": "Business (gyou)"
+    },
+    {
+        "question": "服",
+        "options": ["Clothes (fuku)", "Establish (setsu)", "Graduate (sotsu)", "Boundary (kai)"],
+        "answer": "Clothes (fuku)"
+    },
+    {
+        "question": "局",
+        "options": ["Bureau (kyoku)", "Mark (shirushi)", "Stretch (haru)", "Danger (abunai)"],
+        "answer": "Bureau (kyoku)"
+    },
+    {
+        "question": "卒",
+        "options": ["Graduate (sotsu)", "Criticism (hi)", "WarmClimate (atatakai2)", "Stubborn (gan)"],
+        "answer": "Graduate (sotsu)"
+    },
+    {
+        "question": "論",
+        "options": ["Theory (ron)", "Decrease (heru)", "Clerk (kakari)", "Hall (dou)"],
+        "answer": "Theory (ron)"
+    },
+    {
+        "question": "資",
+        "options": ["Resource (shi)", "Plan (an)", "Compensation (shou)", "Gift (okuru2)"],
+        "answer": "Resource (shi)"
+    },
+    {
+        "question": "覚",
+        "options": ["Remember (oboeru)", "Graduate (sotsu)", "Prepare (sonaeru)", "Compare (kuraberu)"],
+        "answer": "Remember (oboeru)"
+    },
+    {
+        "question": "忘",
+        "options": ["Forget (wasureru)", "Record (roku)", "Fruit (ka)", "Boundary (kai)"],
+        "answer": "Forget (wasureru)"
+    },
+    {
+        "question": "未",
+        "options": ["NotYet (mi)", "Choose (taku)", "Edition (han)", "Harm (gai)"],
+        "answer": "NotYet (mi)"
+    },
+    {
+        "question": "末",
+        "options": ["End (sue)", "Risk (ken)", "Clothes (fuku)", "Agriculture (nou)"],
+        "answer": "End (sue)"
+    },
+    {
+        "question": "果",
+        "options": ["Fruit (ka)", "World (yo)", "Criticism (hi)", "Hall (dou)"],
+        "answer": "Fruit (ka)"
+    },
+    {
+        "question": "材",
+        "options": ["Material (zai)", "Again (sai)", "Plan (an)", "Danger (abunai)"],
+        "answer": "Material (zai)"
+    },
+    {
+        "question": "束",
+        "options": ["Bundle (taba)", "Report (hou)", "Resource (shi)", "Boundary (kai)"],
+        "answer": "Bundle (taba)"
+    },
+    {
+        "question": "票",
+        "options": ["Ballot (hyou)", "Stubborn (gan)", "Risk (ken)", "Institution (in)"],
+        "answer": "Ballot (hyou)"
+    },
+    {
+        "question": "標",
+        "options": ["Mark (shirushi)", "Scenery (kei)", "Clothes (fuku)", "Danger (abunai)"],
+        "answer": "Mark (shirushi)"
+    },
+    {
+        "question": "副",
+        "options": ["Vice (fuku)", "Edition (han)", "Plan (an)", "Business (gyou)"],
+        "answer": "Vice (fuku)"
+    },
+    {
+        "question": "列",
+        "options": ["Row (retsu)", "WarmClimate (atatakai2)", "Boundary (kai)", "Hall (dou)"],
+        "answer": "Row (retsu)"
+    },
+    {
+        "question": "初",
+        "options": ["First (hajime)", "Record (roku)", "Compensation (shou)", "World (yo)"],
+        "answer": "First (hajime)"
+    },
+    {
+        "question": "緒",
+        "options": ["Beginning (sho)", "Suitability (teki)", "Agriculture (nou)", "ReturnSomething (kaesu)"],
+        "answer": "Beginning (sho)"
+    },
+    {
+        "question": "再",
+        "options": ["Again (sai)", "Stubborn (gan)", "Bureau (kyoku)", "Plan (an)"],
+        "answer": "Again (sai)"
+    },
+    {
+        "question": "況",
+        "options": ["Condition (joukyou)", "Prepare (sonaeru)", "Fruit (ka)", "Row (retsu)"],
+        "answer": "Condition (joukyou)"
+    },
+    {
+        "question": "態",
+        "options": ["State (tai)", "Criticism (hi)", "Gift (okuru2)", "Boundary (kai)"],
+        "answer": "State (tai)"
+    },
+    {
+        "question": "適",
+        "options": ["Suitable (teki)", "WarmClimate (atatakai2)", "Scenery (kei)", "Compensation (shou)"],
+        "answer": "Suitable (teki)"
+    },
+    {
+        "question": "減",
+        "options": ["Decrease (heru)", "Graduate (sotsu)", "Vice (fuku)", "Record (roku)"],
+        "answer": "Decrease (heru)"
+    },
+    {
+        "question": "増",
+        "options": ["Increase (fueru)", "Hurry (isogu)", "WarmClimate (atatakai2)", "Risk (ken)"],
+        "answer": "Increase (fueru)"
+    },
+    {
+        "question": "倍",
+        "options": ["Double (bai)", "Agriculture (nou)", "Bureau (kyoku)", "Fruit (ka)"],
+        "answer": "Double (bai)"
+    },
+    {
+        "question": "賞",
+        "options": ["Prize (shou)", "World (yo)", "Prepare (sonaeru)", "Risk (ken)"],
+        "answer": "Prize (shou)"
+    },
+    {
+        "question": "助",
+        "options": ["Help (tasukeru)", "Graduate (sotsu)", "Plan (an)", "Boundary (kai)"],
+        "answer": "Help (tasukeru)"
+    },
+    {
+        "question": "害",
+        "options": ["Harm (gai)", "Hall (dou)", "Plan (an)", "End (sue)"],
+        "answer": "Harm (gai)"
+    },
+    {
+        "question": "危",
+        "options": ["Danger (abunai)", "Research (kyuu)", "WarmClimate (atatakai2)", "Mark (shirushi)"],
+        "answer": "Danger (abunai)"
+    },
+    {
+        "question": "険",
+        "options": ["Risk (ken)", "Value (ka)", "Record (roku)", "Boundary (kai)"],
+        "answer": "Risk (ken)"
+    },
+    {
+        "question": "際",
+        "options": ["Occasion (sai)", "Gift (okuru2)", "Theory (ron)", "Graduate (sotsu)"],
+        "answer": "Occasion (sai)"
+    },
+    {
+        "question": "案",
+        "options": ["Plan (an)", "Criticism (hi)", "Prepare (sonaeru)", "World (yo)"],
+        "answer": "Plan (an)"
+    },
+    {
+        "question": "条",
+        "options": ["Clause (jou)", "Ballot (hyou)", "WarmClimate (atatakai2)", "Mark (shirushi)"],
+        "answer": "Clause (jou)"
+    },
+    {
+        "question": "報",
+        "options": ["Report (hou)", "Fruit (ka)", "Risk (ken)", "Graduate (sotsu)"],
+        "answer": "Report (hou)"
+    },
+    {
+        "question": "質",
+        "options": ["Quality (shitsu)", "Plan (an)", "World (yo)", "Fruit (ka)"],
+        "answer": "Quality (shitsu)"
+    },
+    {
+        "question": "製",
+        "options": ["Manufacture (sei)", "Ballot (hyou)", "Plan (an)", "WarmClimate (atatakai2)"],
+        "answer": "Manufacture (sei)"
+    },
+    {
+        "question": "造",
+        "options": ["Create (zou)", "Criticism (hi)", "Scenery (kei)", "Boundary (kai)"],
+        "answer": "Create (zou)"
+    },
+    {
+        "question": "設",
+        "options": ["Establish (setsu)", "Fruit (ka)", "Risk (ken)", "Plan (an)"],
+        "answer": "Establish (setsu)"
+    },
+    {
+        "question": "備",
+        "options": ["Prepare (sonaeru)", "WarmClimate (atatakai2)", "Risk (ken)", "Boundary (kai)"],
+        "answer": "Prepare (sonaeru)"
+    },
+    {
+        "question": "景",
+        "options": ["Scenery (kei)", "Gift (okuru2)", "End (sue)", "Ballot (hyou)"],
+        "answer": "Scenery (kei)"
+    },
+    {
+        "question": "観",
+        "options": ["View (kan)", "Plan (an)", "Suitable (teki)", "Double (bai)"],
+        "answer": "View (kan)"
+    },
+    {
+        "question": "察",
+        "options": ["Guess (satsu)", "Agriculture (nou)", "Danger (abunai)", "Record (roku)"],
+        "answer": "Guess (satsu)"
+    },
+    {
+        "question": "警",
+        "options": ["Police (kei)", "Stubborn (gan)", "Prepare (sonaeru)", "Boundary (kai)"],
+        "answer": "Police (kei)"
+    },
+    {
+        "question": "暖",
+        "options": ["WarmClimate (atatakai2)", "Again (sai)", "Plan (an)", "Risk (ken)"],
+        "answer": "WarmClimate (atatakai2)"
+    },
+    {
+        "question": "冷",
+        "options": ["ColdThing (tsumetai)", "Criticism (hi)", "Vice (fuku)", "Row (retsu)"],
+        "answer": "ColdThing (tsumetai)"
+    },
+    {
+        "question": "供",
+        "options": ["Offer (tomo)", "WarmClimate (atatakai2)", "Hurry (isogu)", "Boundary (kai)"],
+        "answer": "Offer (tomo)"
+    },
+    {
+        "question": "価",
+        "options": ["Value (ka)", "Danger (abunai)", "Fruit (ka)", "Scenery (kei)"],
+        "answer": "Value (ka)"
+    },
+    {
+        "question": "償",
+        "options": ["Compensation (shou)", "World (yo)", "Plan (an)", "Risk (ken)"],
+        "answer": "Compensation (shou)"
+    },
+    {
+        "question": "贈",
+        "options": ["Gift (okuru2)", "Boundary (kai)", "Criticism (hi)", "Resource (shi)"],
+        "answer": "Gift (okuru2)"
+    },
+    {
+        "question": "遺",
+        "options": ["LeaveBehind (isan)", "Hall (dou)", "Suitable (teki)", "Risk (ken)"],
+        "answer": "LeaveBehind (isan)"
+    },
+    {
+        "question": "域",
+        "options": ["Region (iki)", "Decrease (heru)", "Record (roku)", "Fruit (ka)"],
+        "answer": "Region (iki)"
+    },
+    {
+        "question": "批",
+        "options": ["Criticism (hi)", "WarmClimate (atatakai2)", "Again (sai)", "World (yo)"],
+        "answer": "Criticism (hi)"
+    },
+    {
+        "question": "評",
+        "options": ["Evaluate (hyou)", "Risk (ken)", "Boundary (kai)", "Plan (an)"],
+        "answer": "Evaluate (hyou)"
+    },
+    {
+        "question": "載",
+        "options": ["Load (noseru)", "Ballot (hyou)", "ReturnSomething (kaesu)", "Harm (gai)"],
+        "answer": "Load (noseru)"
+    },
+    {
+        "question": "刊",
+        "options": ["Publish (kan)", "WarmClimate (atatakai2)", "Plan (an)", "Graduate (sotsu)"],
+        "answer": "Publish (kan)"
+    },
+    {
+        "question": "版",
+        "options": ["Edition (han)", "Boundary (kai)", "Criticism (hi)", "Risk (ken)"],
+        "answer": "Edition (han)"
+    },
+    {
+        "question": "択",
+        "options": ["Choose (taku)", "World (yo)", "Again (sai)", "Stubborn (gan)"],
+        "answer": "Choose (taku)"
+    },
+    {
+        "question": "沖",
+        "options": ["OpenSea (oki)", "Agriculture (nou)", "Boundary (kai)", "WarmClimate (atatakai2)"],
+        "answer": "OpenSea (oki)"
+    },
+    {
+        "question": "砂",
+        "options": ["Sand (suna)", "Plan (an)", "Value (ka)", "Graduate (sotsu)"],
+        "answer": "Sand (suna)"
+    },
+    {
+        "question": "江",
+        "options": ["Inlet (e)", "Compensation (shou)", "Boundary (kai)", "Scenery (kei)"],
+        "answer": "Inlet (e)"
+    },
+    {
+        "question": "溶",
+        "options": ["Melt (tokeru)", "Decrease (heru)", "Graduate (sotsu)", "Plan (an)"],
+        "answer": "Melt (tokeru)"
+    },
+    {
+        "question": "頑",
+        "options": ["Stubborn (gan)", "Resource (shi)", "Fruit (ka)", "Risk (ken)"],
+        "answer": "Stubborn (gan)"
+    },
+    {
+        "question": "張",
+        "options": ["Stretch (haru)", "Plan (an)", "Value (ka)", "Risk (ken)"],
+        "answer": "Stretch (haru)"
+    },
+    {
+        "question": "録",
+        "options": ["Record (roku)", "Again (sai)", "Boundary (kai)", "Graduate (sotsu)"],
+        "answer": "Record (roku)"
+    },
+    {
+        "question": "輸",
+        "options": ["Transport (yu)", "WarmClimate (atatakai2)", "Plan (an)", "Value (ka)"],
+        "answer": "Transport (yu)"
+    },
+    {
+        "question": "香",
+        "options": ["Fragrance (kaori)", "World (yo)", "Travel (—)", "Risk (ken)"],
+        "answer": "Fragrance (kaori)"
+    },
+    {
+        "question": "旗",
+        "options": ["Flag (hata)", "End (sue)", "Plan (an)", "Boundary (kai)"],
+        "answer": "Flag (hata)"
+    },
+    {
+        "question": "億",
+        "options": ["HundredMillion (oku)", "Decrease (heru)", "Boundary (kai)", "Plan (an)"],
+        "answer": "HundredMillion (oku)"
+    },
+    {
+        "question": "兆",
+        "options": ["Trillion (chou)", "Stubborn (gan)", "Risk (ken)", "Plan (an)"],
+        "answer": "Trillion (chou)"
+    }
+]

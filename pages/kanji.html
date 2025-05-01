@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="google-site-verification"
+      content="6exaT9XsDYqJeu6KBsg_mB-mbyzSqMW3Ss6R1wZGdSc"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta
+      name="description"
+      content="Kakikata Senpai - Your personal Japanese learning companion. Master Hiragana and Katakana through engaging and interactive practice modes."
+    />
+    <meta
+      name="keywords"
+      content="Kakikata Senpai, Learn Japanese, Hiragana, Katakana, Kanji, Japanese practice, Japanese alphabet"
+    />
+    <meta name="author" content="Frigaa Abderrahmane" />
+    <title>Kanji Practice</title>
+    <link
+      rel="icon"
+      href="../asset/logos/Logo kakikata senpai 1x.png"
+      type="image/icon type"
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../kanji.css" />
+  </head>
+  <body>
+    <header>
+        <!-- logo -->
+        <div class="logo">
+          <img class="logo-om"
+               src="../asset/logos/Logo kakikata senpai 1x.png"
+               alt="Kakikata Senpai logo" />
+        </div>
+      
+        <!-- navigation -->
+        <nav id="main-nav">
+          <!-- hamburger icon (affiché < 640 px) -->
+          <button class="burger" aria-label="Open menu">
+            <span></span><span></span><span></span>
+          </button>
+      
+          <!-- liens -->
+          <div class="nav-links">
+            <a href="../index.html"><button class="nav-btn">Home</button></a>
+            <a href="#"><button class="nav-btn">Kanji</button></a>
+            <a href="/pages/katakana.html"><button class="nav-btn">Katakana</button></a>
+            <a href="/pages/hiragana.html"><button class="nav-btn">Hiragana</button></a>
+          </div>
+        </nav>
+      </header>
+    <main>
+      <section class="question-card" id="question">
+        What is the meaning of this kanji?
+      </section>
+      <div id="feedback"></div>
+      <div class="meta">
+        <span class="level-label">Level:</span>
+        <span class="select-wrap"
+          ><select id="level-select" class="level-select">
+            <option value="N5" selected>N5</option>
+            <option value="N4">N4</option>
+            <option value="N3">N3</option>
+            <option value="N2">N2</option>
+            <option value="N1">N1</option>
+          </select></span
+        >
+      </div>
+      <!-- juste sous <div class="meta"> … -->
+      <div class="score">
+        <span id="sc-correct" class="sc-good">0</span>
+        <span>/</span>
+        <span id="sc-attempt" class="sc-mid">0</span>
+        <span>/</span>
+        <span id="sc-percent" class="sc-bold">0%</span>
+      </div>
+      <div class="options-grid">
+        <button class="option" data-correct="true">Option A</button>
+        <button class="option" data-correct="false">Option B</button>
+        <button class="option" data-correct="false">Option C</button>
+        <button class="option" data-correct="false">Option D</button>
+      </div>
+      <button class="next-btn">Next →</button>
+    </main>
+    <footer>© 2025 Kakikata Senpai – All rights reserved</footer>
+    <script src="../js/kanji.js"></script>
+  </body>
+</html>
