@@ -13,12 +13,30 @@
   <link rel="icon" href="../asset/logos/Logo kakikata senpai 1x.png" type="image/icon type">
 </head>
 <body>
-    <nav class="navbar">
-        <div class="navbar-container">
-            <a href="#" class="nav-link">Hiragana Practice</a>
-            <a href="../pages/katakana.html" class="nav-link">Katakana Practice</a>
+    <header>
+        <!-- logo -->
+        <div class="logo">
+          <img class="logo-om"
+               src="../asset/logos/Logo kakikata senpai 1x.png"
+               alt="Kakikata Senpai logo" />
         </div>
-    </nav>
+      
+        <!-- navigation -->
+        <nav id="main-nav">
+          <!-- hamburger icon (affiché < 640 px) -->
+          <button class="burger" aria-label="Open menu">
+            <span></span><span></span><span></span>
+          </button>
+      
+          <!-- liens -->
+          <div class="nav-links">
+            <a href="../index.html"><button class="nav-btn">Home</button></a>
+            <a href="/pages/kanji.html"><button class="nav-btn">Kanji</button></a>
+            <a href="/pages/katakana.html"><button class="nav-btn">Katakana</button></a>
+            <a href="#"><button class="nav-btn">Hiragana</button></a>
+          </div>
+        </nav>
+      </header>
     <h1>Hiragana Practice</h1>
     <div class="form">
         <p class="para"  id="hiragana-char"></p>
@@ -77,5 +95,6 @@
         <p class="home-footer">&copy; 2024 Kakikata Senpai. All rights reserved.</p>
     </footer>
     <script src="../js/hiragana.js"></script>
+    <script src="/js/index.js"></script>
 </body>
 </html>
